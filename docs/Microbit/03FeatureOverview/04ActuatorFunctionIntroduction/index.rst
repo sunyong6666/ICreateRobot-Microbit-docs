@@ -5,11 +5,11 @@
 
   01ServoMotor.md
   02DCMotor.md
-  03GeekServo/index
-  04LEDModule/index
+  03GeekServo.md
+  04LEDModule.md
   05FanModule.md
   06ElectromagnetModule.md
-  07LaserModule/index
-  08OLEDModule/index
-  09RGBLEDModule/index
-  10RecordingModule/index
+  07LaserModule.md
+  08OLEDModule.md
+  09RGBLEDModule.md
+  10RecordingModule.md
