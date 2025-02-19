@@ -24,7 +24,7 @@
 <font style="color:rgb(0,0,0);">The LED module can be connected to the micro:bit smart hub's interfaces: P0, P1, P2, P8, P12, and P16.  </font>
 
 ## <font style="color:rgb(0,0,0);">Modular Coding  </font>
-![](img/LEDModule05.webp)
+
 
 <font style="color:rgb(0,0,0);">In the MakeCode coding software, by adding the micro:bit extension, you can program the LED module to blink.  </font>
 
