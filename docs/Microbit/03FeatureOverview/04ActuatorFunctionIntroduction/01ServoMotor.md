@@ -76,7 +76,8 @@ The servo motor is a versatile module that supports multiple rotation control mo
 The following programs allow you to rotate the red motor at 50% speed and obtain the motor's speed or position.  
 
 |  Example Program 1  |  Example Program 2   |
-| --- | --- |
+| :---: | :---: |
+| ![](img/ServoMotor05.png) | ![](img/ServoMotor06.png) |
 | This program prints the current position of the red motor via the serial port.   | This program prints the current running speed of the red motor via the serial port.   |
 
 
