@@ -2,10 +2,7 @@
 ## Introduction  
 ![](img/ServoMotor01.png)
 
-
-
 The servo motor is a versatile module that supports multiple rotation control modes, enabling precise control of rotation angles, speed, and position. It uses I²C digital communication for high-speed, latency-free data interaction with controllers. The motor features an I²C address switch button and a status indicator light, allowing users to easily display the current device address and control status. Its plug-and-play terminal connection simplifies wire replacement, addressing the issue of repair difficulties caused by non-detachable wiring.  
-
 
 
 **Key Features:**
@@ -22,6 +19,7 @@ The servo motor is a versatile module that supports multiple rotation control mo
 + Multi-directional reserved axle pin connection design.  
 
 ##  Structural  
+
 ![](img/ServoMotor02.png)
 
 
@@ -77,10 +75,7 @@ The servo motor is a versatile module that supports multiple rotation control mo
 
 The following programs allow you to rotate the red motor at 50% speed and obtain the motor's speed or position.  
 
-|  Example Program 1  |  Example Program 2   |
-| --- | --- |
-| ![](img/ServoMotor05.png) | ![](img/ServoMotor06.png) |
-| This program prints the current position of the red motor via the serial port.   | This program prints the current running speed of the red motor via the serial port.   |
+
 
 
  Below, we explain the coding blocks for controlling single and double motors.  
