@@ -25,6 +25,7 @@
 
 ## <font style="color:rgb(0,0,0);">Modular Coding  </font>
 
+![](img/LEDModule05.jpg)
 
 <font style="color:rgb(0,0,0);">In the MakeCode coding software, by adding the micro:bit extension, you can program the LED module to blink.  </font>
 
