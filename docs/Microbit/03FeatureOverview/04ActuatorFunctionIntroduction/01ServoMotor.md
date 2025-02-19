@@ -8,7 +8,7 @@ The servo motor is a versatile module that supports multiple rotation control mo
 
 
 
-**Key Features:  **
+**Key Features:**
 
 + Standard I²C communication protocol.  
 + Manual I²C slave address switching with 4 selectable addresses and 1 built-in address, supporting multiple motors effortlessly.  
@@ -56,7 +56,7 @@ The servo motor is a versatile module that supports multiple rotation control mo
 
 
 ## Usage Instructions 
-1. **Connect the Motor to the Hub  **
+1. **Connect the Motor to the Hub**
 
 <font style="color:rgb(0,0,0);">The servo motor can be connected to any I²C interface on the micro:bit smart hub. A maximum of 4 servo motors can be connected to the hub. Use the Grove cable for the connection.  </font>
 
@@ -103,7 +103,7 @@ The dual motor module is mainly used in scenarios where two servo motors are use
 
 The image above shows an example of a default chassis setup. The red arrow indicates the forward direction of the robot, where motor ① is defined as the left motor and motor ② is defined as the right motor.  
 
-**Servo Motor Coding Example  **
+**Servo Motor Coding Example**
 
 ![](img/ServoMotor09.png)
 
