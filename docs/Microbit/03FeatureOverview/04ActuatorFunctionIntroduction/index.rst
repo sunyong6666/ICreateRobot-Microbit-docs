@@ -6,9 +6,8 @@
    01ServoMotor.md
    02DCMotor.md
    03GeekServo.md
-    04LEDModule.md
-
-   
+   04LEDModule.md
+   05FanModule.md 
    06ElectromagnetModule.md
    07LaserModule.md
    08OLEDModule.md
