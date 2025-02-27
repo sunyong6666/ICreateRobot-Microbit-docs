@@ -35,35 +35,35 @@
 | Item | <font style="color:rgb(13, 13, 13);">AI Coding Set for BBC micro:bit  -V1.0</font> | <font style="color:rgb(13, 13, 13);">AI Coding Set for BBC micro:bit  -V2.0</font> | <font style="color:rgb(13, 13, 13);">BBC micro:bit Innovation Set</font> | <font style="color:rgb(13, 13, 13);">BBC micro:bit  </font>**<font style="color:rgb(13, 13, 13);">Expansion Set</font>** |
 | :---: | :---: | :---: | :---: | :---: |
 | micro:bit Smart Hub | 1  | 1  | 1 | 1 |
-| Servo Motor | —— | 2  | —— | —— |
-| DC Motor | 4  | —— | 4  | —— |
-| Geek Servo | 2  | 2  | 2  | —— |
-| Potentiometer Module | 1  | 1  | 1  | —— |
-| Rocker Module | —— | 1  | —— | 1 |
-| RGB LED Ring Module | 1  | 1  | —— | —— |
-| Fan Module  | 1  | 1  | —— | —— |
-| Recording Module | —— | 1  | —— | —— |
-| OLED Module | 1  | 1  | 1  | —— |
-| Laser Module | 1  | 1  | 1  | —— |
-| Electromagnet Module | 1  | 1  | —— | —— |
-| Red LED Module | 1  | 1  | 1  | —— |
-| Yellow LED Module | 1  | 1  | 1  | —— |
-| Blue LED Module | 1  | 1  | 1  | —— |
-| Green LED Module  | 1  | 1  | 1  | —— |
-| Ultrasonic Sensor  | 1  | 1  | 1  | —— |
-| MQ-2 Gas Sensor | 1  | 1  | —— | —— |
-| PIR Sensor | —— | 1  | —— | —— |
-| Temperature Sensor | 1  | 1  | —— | —— |
-| Flame Sensor  | 1  | 1  | —— | —— |
-| Hall Sensor | 1  | 1  | 1  | —— |
-| Grayscale Sensor  | 2  | 2  | 2  | —— |
-| Photosensitive Sensor   | 1  | 1  | —— | —— |
+| Servo Motor | — | 2  | — | — |
+| DC Motor | 4  | — | 4  | — |
+| Geek Servo | 2  | 2  | 2  | — |
+| Potentiometer Module | 1  | 1  | 1  | — |
+| Rocker Module | — | 1  | — | 1 |
+| RGB LED Ring Module | 1  | 1  | — | — |
+| Fan Module  | 1  | 1  | — | — |
+| Recording Module | — | 1  | — | — |
+| OLED Module | 1  | 1  | 1  | — |
+| Laser Module | 1  | 1  | 1  | — |
+| Electromagnet Module | 1  | 1  | — | — |
+| Red LED Module | 1  | 1  | 1  | — |
+| Yellow LED Module | 1  | 1  | 1  | — |
+| Blue LED Module | 1  | 1  | 1  | — |
+| Green LED Module  | 1  | 1  | 1  | — |
+| Ultrasonic Sensor  | 1  | 1  | 1  | — |
+| MQ-2 Gas Sensor | 1  | 1  | — | — |
+| PIR Sensor | — | 1  | — | — |
+| Temperature Sensor | 1  | 1  | — | — |
+| Flame Sensor  | 1  | 1  | — | — |
+| Hall Sensor | 1  | 1  | 1  | — |
+| Grayscale Sensor  | 2  | 2  | 2  | — |
+| Photosensitive Sensor   | 1  | 1  | — | — |
 | Button Sensor | 1  | 1  | 1  | 3  |
-| Soil Humidity Sensor | 1  | 1  | —— | —— |
-| Water Level Sensor  | 1  | 1  | —— | —— |
-| Long-range Photoelectric Sensor | 1  | 1  | —— | —— |
+| Soil Humidity Sensor | 1  | 1  | — | — |
+| Water Level Sensor  | 1  | 1  | — | — |
+| Long-range Photoelectric Sensor | 1  | 1  | — | — |
 | Grove Cable | 10  | 10  | 10  | 10  |
-| Grove Male-to-Female Cable | 10  | 10  | 10  | —— |
+| Grove Male-to-Female Cable | 10  | 10  | 10  | — |
 
 
 
