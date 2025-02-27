@@ -31,7 +31,7 @@
 
 
 
-## <font style="color:rgb(13, 13, 13);">List of electronic components in the kit:</font>
+## <font style="color:rgb(13, 13, 13);">List of electronic components in the kit</font>
 | Item | <font style="color:rgb(13, 13, 13);">AI Coding Set for BBC micro:bit  -V1.0</font> | <font style="color:rgb(13, 13, 13);">AI Coding Set for BBC micro:bit  -V2.0</font> | <font style="color:rgb(13, 13, 13);">BBC micro:bit Innovation Set</font> | <font style="color:rgb(13, 13, 13);">BBC micro:bit  </font>**<font style="color:rgb(13, 13, 13);">Expansion Set</font>** |
 | :---: | :---: | :---: | :---: | :---: |
 | micro:bit Smart Hub | 1  | 1  | 1 | 1 |
