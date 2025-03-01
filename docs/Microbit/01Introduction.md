@@ -9,7 +9,7 @@
 | --- | --- | :---: | --- |
 | micro:bit Smart Hub | Servo Motor | DC Motor |  Geek Servo |
 | ![](img/06Introduction.png) | ![](img/07Introduction.png) | ![](img/08Introduction.png) | ![](img/09Introduction.png) |
-| Potentiometer Module |  Rocker Module | RGB LED Module | Fan Module |
+| Potentiometer Module |  Joystick Module | RGB LED Module | Fan Module |
 | ![](img/10Introduction.png) | ![](img/11Introduction.png) | ![](img/12Introduction.png) | ![](img/13Introduction.png) |
 | Recording Module | OLED Module | Laser Module | Electromagnet Module |
 | ![](img/14Introduction.png) | ![](img/15Introduction.png) | ![](img/16Introduction.png) | ![](img/17Introduction.png) |
@@ -39,7 +39,7 @@
 | DC Motor | 4  | — | 4  | — |
 | Geek Servo | 2  | 2  | 2  | — |
 | Potentiometer Module | 1  | 1  | 1  | — |
-| Rocker Module | — | 1  | — | 1 |
+| Joystick Module | — | 1  | — | 1 |
 | RGB LED Ring Module | 1  | 1  | — | — |
 | Fan Module  | 1  | 1  | — | — |
 | Recording Module | — | 1  | — | — |
