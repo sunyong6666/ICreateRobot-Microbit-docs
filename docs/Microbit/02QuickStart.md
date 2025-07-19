@@ -1,7 +1,7 @@
 # QuickStart
 
 ### **Get the Software**
-<font style="color:rgb(13, 13, 13);">You can use the programming software in two ways: online through the </font>[cloud platform](https://makecode.microbit.org/#editor)<font style="color:rgb(13, 13, 13);">, or by downloading and installing the </font>[offline software](https://makecode.microbit.org/offline-app)<font style="color:rgb(13, 13, 13);">. In this tutorial, we will use the online programming platform.</font>
+<font style="color:rgb(13, 13, 13);">You can use the programming software in two ways: online through the </font>[cloud platform](https://makecode.microbit.org)<font style="color:rgb(13, 13, 13);">, or by downloading and installing the </font>[offline software](https://makecode.microbit.org/offline-app)<font style="color:rgb(13, 13, 13);">. In this tutorial, we will use the online programming platform.</font>
 
 <font style="color:rgb(13, 13, 13);">Click the link above to access the online programming platform, where you will see the main interface as shown below.</font>
 
