@@ -17,7 +17,7 @@
 ### **<font style="color:rgb(13, 13, 13);">How to connect device and download program.</font>**
 <font style="color:rgb(13, 13, 13);">Follow the steps </font><font style="color:rgb(13, 13, 13);"> [here](https://drive.google.com/file/d/18hOd-NfBvwm8e54vW3z5LAS3LK58nLMZ/view?usp=drive_link) </font>
 
-### **<font style="color:rgb(13, 13, 13);">Find more detailed the video tutorials </font>**<font style="color:rgb(13, 13, 13);"> [here.](https://www.youtube.com/watch?v=kck-XzAsSjM&list=PLscVLoYXLLuTCQjUZbDd7PDn5nlbZ4xUx) </font>
+### **<font style="color:rgb(13, 13, 13);">Find more detailed the video tutorials </font>**<font style="color:rgb(13, 13, 13);"> [here.](https://www.youtube.com/@ICreateRobot) and enter the playlist "microbit" down below.</font>
 
 ### <font style="color:rgb(13, 13, 13);">Enjoy!</font>
 
