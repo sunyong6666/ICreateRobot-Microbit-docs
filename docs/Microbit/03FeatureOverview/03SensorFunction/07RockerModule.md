@@ -29,13 +29,14 @@
 If the joystick module exhibits accuracy deviations, calibration can be performed using tweezers: Short-circuit the calibration pads with tweezers. The indicator light will start flashing, indicating calibration mode. Perform a full **360° rotation** of the joystick. After completing the rotation, remove the tweezers. When the indicator light turns solid, calibration is successful.
 
 ## <font style="color:rgb(0,0,0);">Modular Coding  </font>
-![](https://cdn.nlark.com/yuque/0/2024/webp/46964359/1732881275074-2f09bf22-6e86-4015-8602-fe81a7ed25ce.webp)
+![](img/06Rocker.gif)
 
 Using the **MakeCode** coding software, the Microbit extension allows:
 
 <font style="color:rgb(13, 13, 13);">Reading directional signals from the joystick module through the </font>**I²C port**<font style="color:rgb(13, 13, 13);"> and displaying them on the </font>**micro: bit LED matrix**<font style="color:rgb(13, 13, 13);">.</font>
 
-![](https://cdn.nlark.com/yuque/0/2024/webp/46964359/1732881554516-16f2d719-3d5a-4204-ab7e-f328d0991be6.webp)
+![](img/07Rocker.gif)
 
 <font style="color:rgb(0,0,0);">Reading positional values from the joystick module through the </font>**I²C port**<font style="color:rgb(0,0,0);"> and writing them to the serial port.  </font>
+
 
