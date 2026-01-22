@@ -35,7 +35,8 @@ The temperature sensor can connect to **P0**, **P1**, or **P2** ports of the **m
 >
 
 ## <font style="color:rgb(0,0,0);">Modular Coding  </font>
-![](img/05Temperature.webp)
+![](img/05Temperature.gif)
 
 <font style="color:rgb(13, 13, 13);">In the MakeCode coding software, by adding the Microbit extension, you can code the system to read the temperature sensor signal from the P0 port and visualize the data on the micro: bit's LED display.</font>
+
 
