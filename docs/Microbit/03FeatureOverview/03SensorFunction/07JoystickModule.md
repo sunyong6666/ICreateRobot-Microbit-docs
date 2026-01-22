@@ -40,3 +40,4 @@ Using the **MakeCode** coding software, the Microbit extension allows:
 <font style="color:rgb(0,0,0);">Reading positional values from the joystick module through the </font>**I²C port**<font style="color:rgb(0,0,0);"> and writing them to the serial port.  </font>
 
 
+
