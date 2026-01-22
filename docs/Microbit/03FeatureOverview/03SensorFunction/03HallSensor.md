@@ -7,7 +7,7 @@
 | :---: | :---: |
 | <font style="color:rgb(13, 13, 13);">Name</font> | Hall Sensor |
 | Code | B0020009 |
-|  Dimensions  | 28 ×24（mm�? |
+|  Dimensions  | 28 Ã—24ï¼ˆmmï¼? |
 | <font style="color:rgb(13, 13, 13);">Voltage</font> | 5V - DC |
 | <font style="color:rgb(13, 13, 13);">Data Type</font> | Analog Signal |
 | <font style="color:rgb(13, 13, 13);">Data Range</font> | 0 or 1 |
@@ -29,7 +29,8 @@
 <font style="color:rgb(13, 13, 13);">If the magnet is not detected, indicating the opposite polarity, the detection magnet can be flipped out.</font>
 
 ## **<font style="color:rgb(13, 13, 13);">Modular Coding</font>**
-![](img/05Hall.webp)
+![](img/05Hall.gif)
 
 <font style="color:rgb(13, 13, 13);">In the MakeCode coding software, the sensor's signal value from the P0 port can be read using the Microbit extension. The data can then be visualized on the micro: bit's LED matrix.</font>
+
 
