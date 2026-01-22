@@ -31,7 +31,7 @@ The motor is a key component that provides power for various projects. The modul
 >
 
 ## <font style="color:rgb(0,0,0);"></font>**<font style="color:rgb(13, 13, 13);">Modular Coding</font>**
-![](img/DC05.webp)
+![](img/DC05.gif)
 
 In the MakeCode coding software, by adding the  micro:bit extension, you can program the motor module to rotate at full power of -255 when the "A" button is pressed and at full power of 255 when the "B" button is pressed.
 
