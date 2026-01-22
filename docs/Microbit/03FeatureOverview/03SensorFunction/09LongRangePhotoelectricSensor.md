@@ -33,9 +33,10 @@
 <font style="color:rgb(13, 13, 13);">The long-range photoelectric sensor features a built-in sensitivity adjustment mechanism. Users can easily adjust sensitivity by turning the potentiometer at the rear. Rotating it clockwise increases the detection range and sensitivity, while counterclockwise rotation decreases the range and sensitivity.</font>
 
 ## **<font style="color:rgb(13, 13, 13);">Modular Coding</font>**
-![](img/06Long.webp)
+![](img/06Long.gif)
 
 
 
 <font style="color:rgb(13, 13, 13);">In the MakeCode coding software, the sensor's signal value from the P0 port can be read using the Microbit extension. The data can then be visualized on the micro:bit’s LED matrix.</font>
+
 
