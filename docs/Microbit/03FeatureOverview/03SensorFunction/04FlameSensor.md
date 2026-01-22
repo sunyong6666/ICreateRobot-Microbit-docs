@@ -28,7 +28,8 @@
 >
 
 ## **<font style="color:rgb(13, 13, 13);">Modular Coding</font>**
-![](img/05Flame.webp)
+![](img/05Flame.gif)
 
 <font style="color:rgb(13, 13, 13);">In the MakeCode coding software, by adding the Microbit extension, you can program the system to read the flame sensor signal from the P0 port and visualize the data on the micro: bit's LED display.</font>
+
 
