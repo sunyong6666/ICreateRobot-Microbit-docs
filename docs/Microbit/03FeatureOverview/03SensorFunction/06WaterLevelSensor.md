@@ -28,7 +28,8 @@
 >
 
 ## <font style="color:rgb(0,0,0);"></font>**<font style="color:rgb(13, 13, 13);">Modular Coding</font>**
-![](img/05Water.webp)
+![](img/05Water.gif)
 
 <font style="color:rgb(13, 13, 13);">In the MakeCode programming environment, by adding the Microbit extension, you can program the system to read the water level sensor signal from the P0 port and visualize the data on the micro: bit's LED display.</font>
+
 
