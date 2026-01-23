@@ -21,7 +21,7 @@ OLED (Organic Light Emitting Diode) displays use organic materials to emit light
 
 | <br/>![](img/O01.png) | | |
 | :---: | --- | --- |
-| ![](img/O02.png) | ![](img/O03.jpeg) | ![](img/O04.png) |
+| ![](img/O02.png) | ![](img/O03.png) | ![](img/O04.png) |
 | _<font style="color:rgb(13, 13, 13);">Side View</font>_ | _<font style="color:rgb(13, 13, 13);">Front View</font>_ | _<font style="color:rgb(13, 13, 13);">Side View</font>_ |
 
 
