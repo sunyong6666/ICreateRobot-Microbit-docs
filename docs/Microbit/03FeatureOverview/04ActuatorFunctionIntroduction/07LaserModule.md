@@ -34,7 +34,7 @@
 >
 
 ## <font style="color:rgb(0,0,0);">Modular Coding  </font>
-![](img/L05.webp)
+![](img/L05.gif)
 
 <font style="color:rgba(0, 0, 0, 0.85);">In the MakeCode coding software, by adding the </font><font style="color:rgb(0,0,0);">micro:bit</font><font style="color:rgba(0, 0, 0, 0.85);"> extension, you can program the laser module to blink, and use the "+" block to adjust the laser's power.  </font>
 
