@@ -13,7 +13,7 @@ Sensor Function
    04FlameSensor.md
    05SoilMoistureSensor.md
    06WaterLevelSensor.md
-   07RockerModule.md
+   07JoystickModule.md
    08TemperatureSensor.md
    09LongRangePhotoelectricSensor.md
    10SixWayColorGrayscaleSensor.md
