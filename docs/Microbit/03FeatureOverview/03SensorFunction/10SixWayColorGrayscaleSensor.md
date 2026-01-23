@@ -41,16 +41,16 @@
 | :---: | :---: |
 | <font style="color:rgb(13, 13, 13);">Name</font> | <font style="color:rgb(0,0,0);">Six-Way Color & Grayscale Sensor</font> |
 | Code | <font style="color:rgb(0,0,0);">B0200011</font> |
-| <font style="color:rgb(13, 13, 13);"> Voltage</font> | <font style="color:rgb(0,0,0);">5Vï¼DC</font> |
-| <font style="color:rgb(0,0,0);"></font><font style="color:rgb(13, 13, 13);">Communication Method</font> | <font style="color:rgb(0,0,0);">IÂ²C </font> |
+| <font style="color:rgb(13, 13, 13);"> Voltage</font> | <font style="color:rgb(0,0,0);">5V-DC</font> |
+| <font style="color:rgb(0,0,0);"></font><font style="color:rgb(13, 13, 13);">Communication Method</font> | <font style="color:rgb(0,0,0);">IIC </font> |
 | <font style="color:rgb(0,0,0);"></font><font style="color:rgb(13, 13, 13);">Detection Range (Grayscale)</font> | <font style="color:rgb(0,0,0);"></font><font style="color:rgb(13, 13, 13);">Analog output (0~255) / Digital output (0 or 1)</font> |
 | <font style="color:rgb(0,0,0);"></font><font style="color:rgb(13, 13, 13);">Detection Range (Color)</font> | <font style="color:rgb(0,0,0);"></font><font style="color:rgb(13, 13, 13);">Red, Yellow, Green, Blue, Purple</font> |
 | <font style="color:rgb(0,0,0);"></font><font style="color:rgb(13, 13, 13);">Sensor Count</font> | <font style="color:rgb(0,0,0);">6 </font><font style="color:rgb(13, 13, 13);">Channels</font> |
 | Ports | Grove  |
-| <font style="color:rgb(13, 13, 13);">Dimensions</font> | <font style="color:rgb(0,0,0);">96 Ã— 32  (mm)</font> |
+| <font style="color:rgb(13, 13, 13);">Dimensions</font> | <font style="color:rgb(0,0,0);">96 x 32  (mm)</font> |
 
 
-<font style="color:rgb(0,0,0);"></font><font style="color:rgb(13, 13, 13);">The Six-Way Color and Grayscale Sensor uses IÂ²C communication. Below is the IÂ²C communication address and corresponding indicator light table:</font>
+<font style="color:rgb(0,0,0);"></font><font style="color:rgb(13, 13, 13);">The Six-Way Color and Grayscale Sensor uses IIC communication. Below is the IIC communication address and corresponding indicator light table:</font>
 
 | **<font style="color:rgb(13, 13, 13);">IÂ²C Address</font>** | **<font style="color:rgb(13, 13, 13);">Indicator Light Color</font>** |
 | :---: | :---: |
@@ -154,6 +154,7 @@ The following table lists the correspondence between the IÂ²C slave address of
 
 
 <font style="color:rgb(0,0,0);"></font>
+
 
 
 
