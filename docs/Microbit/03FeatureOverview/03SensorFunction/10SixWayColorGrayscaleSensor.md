@@ -26,14 +26,14 @@
 
 | **<font style="color:rgb(13, 13, 13);">No.</font>** |  Item | **<font style="color:rgb(13, 13, 13);">Description</font>** |
 | :---: | :---: | :---: |
-| �? | <font style="color:rgb(13, 13, 13);">Indicator Light</font> | <font style="color:rgb(13, 13, 13);">Lights up when the corresponding probe detects a "black line."</font> |
-| �? | <font style="color:rgb(13, 13, 13);">Learning Button</font> | <font style="color:rgb(13, 13, 13);">Press once to enter learning mode; long press to change device address.</font> |
-| �? | <font style="color:rgb(13, 13, 13);">Reset Button</font> | <font style="color:rgb(13, 13, 13);">Used to reset the sensor.</font> |
-| �? | <font style="color:rgb(13, 13, 13);">Sensor Probes</font> | <font style="color:rgb(13, 13, 13);">The six probes of the Six-Way Color and Grayscale Sensor.</font> |
-| �? | <font style="color:rgb(13, 13, 13);">Supplementary Light</font> | <font style="color:rgb(13, 13, 13);">Supplementary light corresponding to each probe.</font> |
-| �? | <font style="color:rgb(13, 13, 13);">Interface</font> | <font style="color:rgb(13, 13, 13);">HY2.0-4P port for power supply and signal transmission.</font> |
-| �? | <font style="color:rgb(13, 13, 13);">Address Indicator</font> | <font style="color:rgb(13, 13, 13);">Indicates the device address; different colors represent different addresses.</font> |
-| �? | <font style="color:rgb(13, 13, 13);">Type-C Interface</font> | <font style="color:rgb(13, 13, 13);">For power supply and firmware updates.</font> |
+| ① | <font style="color:rgb(13, 13, 13);">Indicator Light</font> | <font style="color:rgb(13, 13, 13);">Lights up when the corresponding probe detects a "black line."</font> |
+| ② | <font style="color:rgb(13, 13, 13);">Learning Button</font> | <font style="color:rgb(13, 13, 13);">Press once to enter learning mode; long press to change device address.</font> |
+| ③ | <font style="color:rgb(13, 13, 13);">Reset Button</font> | <font style="color:rgb(13, 13, 13);">Used to reset the sensor.</font> |
+| ④ | <font style="color:rgb(13, 13, 13);">Sensor Probes</font> | <font style="color:rgb(13, 13, 13);">The six probes of the Six-Way Color and Grayscale Sensor.</font> |
+| ⑤ | <font style="color:rgb(13, 13, 13);">Supplementary Light</font> | <font style="color:rgb(13, 13, 13);">Supplementary light corresponding to each probe.</font> |
+| ⑥ | <font style="color:rgb(13, 13, 13);">Interface</font> | <font style="color:rgb(13, 13, 13);">HY2.0-4P port for power supply and signal transmission.</font> |
+| ⑦ | <font style="color:rgb(13, 13, 13);">Address Indicator</font> | <font style="color:rgb(13, 13, 13);">Indicates the device address; different colors represent different addresses.</font> |
+| ⑧ | <font style="color:rgb(13, 13, 13);">Type-C Interface</font> | <font style="color:rgb(13, 13, 13);">For power supply and firmware updates.</font> |
 
 
 ## <font style="color:rgb(13, 13, 13);">Specification</font>
@@ -41,18 +41,18 @@
 | :---: | :---: |
 | <font style="color:rgb(13, 13, 13);">Name</font> | <font style="color:rgb(0,0,0);">Six-Way Color & Grayscale Sensor</font> |
 | Code | <font style="color:rgb(0,0,0);">B0200011</font> |
-| <font style="color:rgb(13, 13, 13);"> Voltage</font> | <font style="color:rgb(0,0,0);">5V－DC</font> |
-| <font style="color:rgb(0,0,0);"></font><font style="color:rgb(13, 13, 13);">Communication Method</font> | <font style="color:rgb(0,0,0);">I²C </font> |
+| <font style="color:rgb(13, 13, 13);"> Voltage</font> | <font style="color:rgb(0,0,0);">5Vï¼DC</font> |
+| <font style="color:rgb(0,0,0);"></font><font style="color:rgb(13, 13, 13);">Communication Method</font> | <font style="color:rgb(0,0,0);">IÂ²C </font> |
 | <font style="color:rgb(0,0,0);"></font><font style="color:rgb(13, 13, 13);">Detection Range (Grayscale)</font> | <font style="color:rgb(0,0,0);"></font><font style="color:rgb(13, 13, 13);">Analog output (0~255) / Digital output (0 or 1)</font> |
 | <font style="color:rgb(0,0,0);"></font><font style="color:rgb(13, 13, 13);">Detection Range (Color)</font> | <font style="color:rgb(0,0,0);"></font><font style="color:rgb(13, 13, 13);">Red, Yellow, Green, Blue, Purple</font> |
 | <font style="color:rgb(0,0,0);"></font><font style="color:rgb(13, 13, 13);">Sensor Count</font> | <font style="color:rgb(0,0,0);">6 </font><font style="color:rgb(13, 13, 13);">Channels</font> |
 | Ports | Grove  |
-| <font style="color:rgb(13, 13, 13);">Dimensions</font> | <font style="color:rgb(0,0,0);">96 × 32  (mm)</font> |
+| <font style="color:rgb(13, 13, 13);">Dimensions</font> | <font style="color:rgb(0,0,0);">96 Ã— 32  (mm)</font> |
 
 
-<font style="color:rgb(0,0,0);"></font><font style="color:rgb(13, 13, 13);">The Six-Way Color and Grayscale Sensor uses I²C communication. Below is the I²C communication address and corresponding indicator light table:</font>
+<font style="color:rgb(0,0,0);"></font><font style="color:rgb(13, 13, 13);">The Six-Way Color and Grayscale Sensor uses IÂ²C communication. Below is the IÂ²C communication address and corresponding indicator light table:</font>
 
-| **<font style="color:rgb(13, 13, 13);">I²C Address</font>** | **<font style="color:rgb(13, 13, 13);">Indicator Light Color</font>** |
+| **<font style="color:rgb(13, 13, 13);">IÂ²C Address</font>** | **<font style="color:rgb(13, 13, 13);">Indicator Light Color</font>** |
 | :---: | :---: |
 | 0x70 <font style="color:rgb(13, 13, 13);">(default)</font> | <font style="color:rgb(13, 13, 13);">None</font> |
 | 0x71 | <font style="color:rgb(13, 13, 13);">White</font> |
@@ -61,7 +61,7 @@
 | 0x74 | <font style="color:rgb(13, 13, 13);">Blue</font> |
 
 
-<font style="background-color:rgb(253, 253, 254);"></font><font style="color:rgb(13, 13, 13);">When using I²C communication, ensure that all sensor addresses are unique to avoid communication errors.</font>
+<font style="background-color:rgb(253, 253, 254);"></font><font style="color:rgb(13, 13, 13);">When using IÂ²C communication, ensure that all sensor addresses are unique to avoid communication errors.</font>
 
 ## **<font style="color:rgb(13, 13, 13);">Usage</font>**
 ### <font style="color:rgb(13, 13, 13);">Connection Diagram</font>
@@ -73,12 +73,12 @@
 | **<font style="color:rgb(13, 13, 13);">Six-Way Color & Grayscale Sensor Connection Diagram</font>** | | |
 
 
-<font style="color:rgb(13, 13, 13);">The Six-Way Color and Grayscale Sensor uses I²C communication and can be connected to any I²C interface on the micro:bit Intelligent Hub.</font>
+<font style="color:rgb(13, 13, 13);">The Six-Way Color and Grayscale Sensor uses IÂ²C communication and can be connected to any IÂ²C interface on the micro:bit Intelligent Hub.</font>
 
 ### <font style="background-color:rgb(253, 253, 254);"></font>**<font style="color:rgb(13, 13, 13);">Learning Button Function</font>**
 <font style="background-color:rgb(253, 253, 254);"></font><font style="color:rgb(13, 13, 13);">Pressing the learning button activates the line-following learning mode. The following steps outline the procedure:</font>
 
-1. <font style="background-color:rgb(253, 253, 254);"></font><font style="color:rgb(13, 13, 13);">Place the four probes of the sensor on the background of the line-following map, with the sensor positioned 5mm�?15mm above the surface.</font>
+1. <font style="background-color:rgb(253, 253, 254);"></font><font style="color:rgb(13, 13, 13);">Place the four probes of the sensor on the background of the line-following map, with the sensor positioned 5mmâ€?15mm above the surface.</font>
 2. <font style="background-color:rgb(253, 253, 254);"></font><font style="color:rgb(13, 13, 13);">Press the learning button to trigger learning mode.</font>
 3. <font style="background-color:rgb(253, 253, 254);"></font><font style="color:rgb(13, 13, 13);">When the six line-following status LEDs start blinking rapidly, the sensor is in the learning state.</font>
 4. <font style="background-color:rgb(253, 253, 254);"></font><font style="color:rgb(13, 13, 13);">Move the sensor so that each probe observes both the background and the line. This helps the sensor learn the features of the background and the line.</font>
@@ -93,7 +93,7 @@
 >
 
 ### <font style="background-color:rgb(253, 253, 254);"></font>**<font style="color:rgb(13, 13, 13);">Analog and Digital Output</font>**
-<font style="background-color:rgb(253, 253, 254);"></font><font style="color:rgb(13, 13, 13);">The sensor can output data as either an analog signal (range 0�?255) or a digital signal (0 or 1) through any port.</font>
+<font style="background-color:rgb(253, 253, 254);"></font><font style="color:rgb(13, 13, 13);">The sensor can output data as either an analog signal (range 0â€?255) or a digital signal (0 or 1) through any port.</font>
 
 <font style="color:rgb(13, 13, 13);">For accurate interpretation of the analog output, environmental light values should be learned in advance. If the sensor is used in a different lighting condition than it was trained in, the readings may vary significantly. It is recommended to perform environment adaptation learning before actual use.</font>
 
@@ -103,18 +103,18 @@
 <font style="color:rgb(13, 13, 13);">Click here to access the </font>[Six-Way Color and Grayscale Sensor extension](https://www.icrobot.com/www/cn/index.html#/file/index?type2=micro%EF%BC%9Abit)<font style="color:rgb(13, 13, 13);">.</font>
 
 ### **<font style="color:rgb(13, 13, 13);">Address Selection</font>**
-<font style="color:#000000;background-color:rgb(253, 253, 254);"></font><font style="color:rgb(13, 13, 13);">The sensor has one default I²C slave address and four selectable addresses, which are indicated by different LED colors. When only one sensor is in use, the default address 0 can be used. When multiple sensors are used, each should be assigned a unique address, and the corresponding group number should be selected in the programming interface.</font>
+<font style="color:#000000;background-color:rgb(253, 253, 254);"></font><font style="color:rgb(13, 13, 13);">The sensor has one default IÂ²C slave address and four selectable addresses, which are indicated by different LED colors. When only one sensor is in use, the default address 0 can be used. When multiple sensors are used, each should be assigned a unique address, and the corresponding group number should be selected in the programming interface.</font>
 
 > <font style="color:#000000;background-color:rgb(253, 253, 254);">Note: If more than one sensor is used and the same address is set, the control will be abnormal.</font>
 >
 
-**<font style="color:#000000;background-color:rgb(253, 253, 254);"></font>****<font style="color:rgb(13, 13, 13);">I²C Address Switching</font>****<font style="color:#000000;background-color:rgb(253, 253, 254);">�?</font>**
+**<font style="color:#000000;background-color:rgb(253, 253, 254);"></font>****<font style="color:rgb(13, 13, 13);">IÂ²C Address Switching</font>****<font style="color:#000000;background-color:rgb(253, 253, 254);">ï¼?</font>**
 
-<font style="color:#000000;background-color:rgb(253, 253, 254);"></font><font style="color:rgb(13, 13, 13);">To switch the device's I²C address, long press the learning button and wait for the address indicator light to change color. Release the button when the desired address is reached.</font>
+<font style="color:#000000;background-color:rgb(253, 253, 254);"></font><font style="color:rgb(13, 13, 13);">To switch the device's IÂ²C address, long press the learning button and wait for the address indicator light to change color. Release the button when the desired address is reached.</font>
 
-The following table lists the correspondence between the I²C slave address of the device, the color of the sensor indicator and the group number in the program extension. Please pay attention to the comparison.
+The following table lists the correspondence between the IÂ²C slave address of the device, the color of the sensor indicator and the group number in the program extension. Please pay attention to the comparison.
 
-| **<font style="color:rgb(13, 13, 13);">I²C Address</font>** | ******<font style="color:rgb(13, 13, 13);">Group Number</font>** | **<font style="color:rgb(13, 13, 13);">Color</font>** |
+| **<font style="color:rgb(13, 13, 13);">IÂ²C Address</font>** | ******<font style="color:rgb(13, 13, 13);">Group Number</font>** | **<font style="color:rgb(13, 13, 13);">Color</font>** |
 | :---: | :---: | :---: |
 | 0x70<font style="color:rgb(13, 13, 13);"> (Default)</font> | 0<font style="color:rgb(13, 13, 13);"> (Default)</font> | Any |
 | 0x71 | 1 | <font style="color:rgb(13, 13, 13);">White</font> |
@@ -126,7 +126,7 @@ The following table lists the correspondence between the I²C slave address of t
 ### **<font style="color:rgb(13, 13, 13);">Program Calibration</font>**
 ![](img/11six.gif)
 
-<font style="color:rgb(13, 13, 13);">When the sensor is installed in a location where direct operation of the learning button is difficult, the sensor can be controlled through a calibration program block. By selecting an address number (0�?4), the corresponding sensor can be instructed to enter learning mode. For the specific steps of the learning operation, please refer to the button learning function described in the previous section.</font>
+<font style="color:rgb(13, 13, 13);">When the sensor is installed in a location where direct operation of the learning button is difficult, the sensor can be controlled through a calibration program block. By selecting an address number (0â€?4), the corresponding sensor can be instructed to enter learning mode. For the specific steps of the learning operation, please refer to the button learning function described in the previous section.</font>
 
 ### <font style="color:rgb(5, 7, 59);background-color:rgb(253, 253, 254);"></font>**<font style="color:rgb(13, 13, 13);">Serial Output</font>**
 ![](img/07six.gif)
@@ -149,9 +149,10 @@ The following table lists the correspondence between the I²C slave address of t
 ### **<font style="color:rgb(13, 13, 13);">Analog Output Block</font>**
 ![](img/10six.gif)
 
-**<font style="background-color:rgb(253, 253, 254);"></font>**<font style="color:rgb(13, 13, 13);">The analog output block converts the reading of a selected probe into an analog signal (0�?255 range) for output.</font>
+**<font style="background-color:rgb(253, 253, 254);"></font>**<font style="color:rgb(13, 13, 13);">The analog output block converts the reading of a selected probe into an analog signal (0â€?255 range) for output.</font>
 
 
 
 <font style="color:rgb(0,0,0);"></font>
+
 
