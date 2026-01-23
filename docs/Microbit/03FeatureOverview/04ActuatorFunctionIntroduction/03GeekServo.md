@@ -20,7 +20,7 @@
 ## **<font style="color:rgb(13, 13, 13);">Usage</font>**
 | ![](img/GeekServo01.png) | | |
 | :---: | --- | --- |
-| ![]((img/GeekServo02.png) | ![](img/GeekServo03.png) | ![](img/GeekServo04.png) |
+| ![](img/GeekServo02.png) | ![](img/GeekServo03.png) | ![](img/GeekServo04.png) |
 | _<font style="color:rgb(13, 13, 13);">Side View</font>_ | _<font style="color:rgb(13, 13, 13);">Front View</font>_ | _<font style="color:rgb(13, 13, 13);">Side View</font>_ |
 | **<font style="color:rgb(13, 13, 13);">Geek Servo Connection Diagram</font>** | | |
 
@@ -31,7 +31,7 @@
 >
 
 ## <font style="color:rgb(0,0,0);">Modular Coding  </font>
-![](img/GeekServo05.webp)
+![](img/GeekServo05.gif)
 
 In the MakeCode coding software, by adding the  micro:bit extension, you can program the servo module to move as follows:
 
