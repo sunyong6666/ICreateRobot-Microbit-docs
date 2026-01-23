@@ -16,7 +16,7 @@ OLED (Organic Light Emitting Diode) displays use organic materials to emit light
 | <font style="color:rgb(13, 13, 13);">Ports</font> | <font style="color:rgba(0, 0, 0, 0.85);">Grove</font> |
 
 
-# **<font style="color:rgb(13, 13, 13);">Usage</font>**
+## **<font style="color:rgb(13, 13, 13);">Usage</font>**
 
 
 | <br/>![](img/O01.png) | | |
@@ -31,7 +31,7 @@ OLED (Organic Light Emitting Diode) displays use organic materials to emit light
 
 The OLED module can be connected to any of the 4 I²C sensor communication interfaces on the micro:bit smart hub for coding and control. Through coding, you can first initialize the OLED screen and then control it to display text or numbers.  
 
-# Modular Coding  
+## Modular Coding  
 ![](img/O05.png)
 
 In the MakeCode coding software, by adding the <font style="color:rgb(0,0,0);">micro:bit</font> extension, the OLED display is divided into 4 rows and 13 columns. You can click to confirm the starting position for displaying strings or numbers. Then, you can input the text or numbers to display. In the example shown, the OLED display module is programmed to show the string "Hello" in the first row, first column, and the number 12 in the second row, first column.  
