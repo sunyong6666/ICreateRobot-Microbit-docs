@@ -30,7 +30,7 @@
 ---
 
 ## <font style="color:rgb(0,0,0);">Modular Coding  </font>
-![](img/El05.webp)
+![](img/El05.gif)
 
 In the MakeCode coding software, by adding the <font style="color:rgb(0,0,0);">micro:bit</font> extension, you can program the electromagnet module as follows:
 
