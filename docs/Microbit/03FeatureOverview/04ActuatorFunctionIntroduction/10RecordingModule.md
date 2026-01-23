@@ -42,7 +42,7 @@ The <font style="color:rgb(0,0,0);">Recording Module</font> is mainly used to ca
 
 
 ## <font style="color:rgb(0,0,0);">Modular Coding  </font>
-![](img/RM06.webp)
+![](img/RM06.gif)
 
 <font style="color:rgb(0,0,0);">In the MakeCode coding software, by adding the micro:bit extension, you can program the recording module to play the machine gun sound effect when button A is pressed.  </font>
 
