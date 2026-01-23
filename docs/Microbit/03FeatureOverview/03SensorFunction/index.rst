@@ -17,5 +17,9 @@ Sensor Function
    08TemperatureSensor.md
    09LongRangePhotoelectricSensor.md
    10SixWayColorGrayscaleSensor.md
+   11MQ2GasSensor.md
+   12PIRSensor.md
+   13PhotosensitiveSensor.md
+   14GrayscaleSensor.md
 
  
