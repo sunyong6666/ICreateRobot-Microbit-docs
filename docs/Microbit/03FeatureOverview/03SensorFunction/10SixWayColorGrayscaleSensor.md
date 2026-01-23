@@ -73,7 +73,7 @@
 | **<font style="color:rgb(13, 13, 13);">Six-Way Color & Grayscale Sensor Connection Diagram</font>** | | |
 
 
-<font style="color:rgb(13, 13, 13);">The Six-Way Color and Grayscale Sensor uses IÂ²C communication and can be connected to any IÂ²C interface on the micro:bit Intelligent Hub.</font>
+<font style="color:rgb(13, 13, 13);">The Six-Way Color and Grayscale Sensor uses IIC communication and can be connected to any IÂ²C interface on the micro:bit Intelligent Hub.</font>
 
 ### <font style="background-color:rgb(253, 253, 254);"></font>**<font style="color:rgb(13, 13, 13);">Learning Button Function</font>**
 <font style="background-color:rgb(253, 253, 254);"></font><font style="color:rgb(13, 13, 13);">Pressing the learning button activates the line-following learning mode. The following steps outline the procedure:</font>
@@ -154,5 +154,6 @@ The following table lists the correspondence between the IÂ²C slave address of
 
 
 <font style="color:rgb(0,0,0);"></font>
+
 
 
