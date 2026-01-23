@@ -21,7 +21,7 @@ OLED (Organic Light Emitting Diode) displays use organic materials to emit light
 
 | <br/>![](img/O01.png) | | |
 | :---: | --- | --- |
-| ![](img/O02.png) | ![](img/O03.png) | ![](img/O04.png) |
+| ![](img/O02.png) | ![](img/O03.jpg) | ![](img/O04.png) |
 | _<font style="color:rgb(13, 13, 13);">Side View</font>_ | _<font style="color:rgb(13, 13, 13);">Front View</font>_ | _<font style="color:rgb(13, 13, 13);">Side View</font>_ |
 
 
@@ -46,7 +46,7 @@ In the example, the OLED display module is programmed to show the string "Hello"
 
 
 
-![]((img/O08.png)
+![](img/O08.png)
 
 <font style="color:rgb(0,0,0);"></font>You can clear the OLED display screen using the "Clear" block.  
 
