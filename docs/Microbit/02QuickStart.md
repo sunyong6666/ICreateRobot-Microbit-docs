@@ -13,7 +13,7 @@
 
 
 ### <font style="color:rgb(13, 13, 13);">Power on the micro:bit Smart Hub</font>
-| ![](img/06QuickStart.png) |![](img/07QuickStart.png) | ![](img/08QuickStart.png) |
+| ![](img/06QuickStart.png) | ![](img/07QuickStart.png) | ![](img/08QuickStart.png) |
 | :---: | :---: | :---: |
 
 
