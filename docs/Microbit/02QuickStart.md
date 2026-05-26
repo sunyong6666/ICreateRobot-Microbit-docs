@@ -8,9 +8,7 @@
 | ![](img/01QuickStart.png) | ![](img/02QuickStart.png) | ![](img/03QuickStart.png) |
 | :---: | :---: | :---: |
 | micro:bit Smart Hub×1 | Button Sensor×1 | Grove Cables ×3 |
-| <!-- 这是一张图片，ocr 内容为： -->
-![](img/04QuickStart.png) | <!-- 这是一张图片，ocr 内容为： -->
-![](img/05QuickStart.png) |  |
+| ![](img/04QuickStart.png) | ![](img/05QuickStart.png) |  |
 | Fan Module×1 | Red LED Module×1 |  |
 
 
