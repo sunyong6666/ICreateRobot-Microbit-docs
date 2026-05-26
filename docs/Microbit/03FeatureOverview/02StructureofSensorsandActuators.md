@@ -7,19 +7,19 @@ For detailed performance specifications and functional applications of each sens
 ### Single-Sided Connector Structure  
 ![](img/01Structure.png)
 
-| **No.** | ** Name  ** | ** Description  ** |
+| **No.** | **Name** | **Description** |
 | :---: | :---: | :---: |
-| <font style="color:rgb(26, 26, 26);">â‘?</font> | Grove |  Compatible with Grove cable |
-| <font style="color:rgb(26, 26, 26);">â‘?</font> | Pinhole Connector   |  Compatible with LEGO |
+| <font style="color:rgb(26, 26, 26);">â‘ </font> | Grove |  Compatible with Grove cable |
+| <font style="color:rgb(26, 26, 26);">â‘¡</font> | Pinhole Connector   |  Compatible with LEGO |
 
 
 ### Double-Sided Connector Structure  
 ![](img/02Structure.png)
 
-| **No.** | ** Name  ** | ** Description  ** |
+| **No.** | **Name** | **Description** |
 | :---: | :---: | :---: |
-| <font style="color:rgb(26, 26, 26);">â‘?</font> | Grove |  Compatible with Grove cable |
-| <font style="color:rgb(26, 26, 26);">â‘?/â‘?</font> | Pinhole Connector   |  Compatible with LEGO |
+| <font style="color:rgb(26, 26, 26);">â‘ </font> | Grove |  Compatible with Grove cable |
+| <font style="color:rgb(26, 26, 26);">â‘¡</font> | Pinhole Connector   |  Compatible with LEGO |
 
 
 
