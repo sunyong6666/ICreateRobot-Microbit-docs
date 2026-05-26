@@ -46,7 +46,7 @@
 
 
 ### **<font style="color:rgb(13, 13, 13);">Get the Extension</font>**
-<font style="color:rgb(13, 13, 13);">The </font>**<font style="color:rgb(13, 13, 13);">MakeCode</font>**<font style="color:rgb(13, 13, 13);"> coding platform has a dedicated </font>**<font style="color:rgb(13, 13, 13);">Microbit extension</font>**<font style="color:rgb(13, 13, 13);"> for the </font>**<font style="color:rgb(13, 13, 13);">micro:bit Smart Hub</font>**<font style="color:rgb(13, 13, 13);">. You can add this extension to both the online and offline versions of the platform. Click </font>[here](https://www.icrobot.com/www/cn/index.html#/file/index?type1=%E8%BD%AF%E4%BB%B6%E8%B5%84%E6%96%99&type2=micro%EF%BC%9Abit)<font style="color:rgb(13, 13, 13);"> to download the latest version of the </font>**<font style="color:rgb(13, 13, 13);">Microbit extension</font>**<font style="color:rgb(13, 13, 13);">, and extract it to your computer.</font>
+<font style="color:rgb(13, 13, 13);">The </font>**<font style="color:rgb(13, 13, 13);">MakeCode</font>**<font style="color:rgb(13, 13, 13);"> coding platform has a dedicated </font>**<font style="color:rgb(13, 13, 13);">Microbit extension</font>**<font style="color:rgb(13, 13, 13);"> for the </font>**<font style="color:rgb(13, 13, 13);">micro:bit Smart Hub</font>**<font style="color:rgb(13, 13, 13);">. You can add this extension to both the online and offline versions of the platform. Click </font>[here](https://drive.google.com/drive/folders/1BelSOfzXOhKQjtSsvhnTnV4FC-a3zJ6A)<font style="color:rgb(13, 13, 13);"> to download the latest version of the </font>**<font style="color:rgb(13, 13, 13);">Microbit extension</font>**<font style="color:rgb(13, 13, 13);">, and extract it to your computer.</font>
 
 ### **<font style="color:rgb(13, 13, 13);">Add the Extension</font>**
 <font style="color:rgb(13, 13, 13);">Follow the steps below to add the </font>**<font style="color:rgb(13, 13, 13);">Microbit extension</font>**<font style="color:rgb(13, 13, 13);"> to the </font>**<font style="color:rgb(13, 13, 13);">MakeCode</font>**<font style="color:rgb(13, 13, 13);"> platform:</font>
@@ -121,9 +121,7 @@ Now you can connect the hub to your computer and download the program
 
 
 
-| <!-- 这是一张图片，ocr 内容为： -->
-![](img/21QuickStart.png) | <!-- 这是一张图片，ocr 内容为： -->
-![](img/22QuickStart.png) |
+| ![](img/21QuickStart.png) | ![](img/22QuickStart.png) |
 | :---: | :---: |
 | **Successful Download**<font style="color:rgb(13, 13, 13);">: When the message “Downloaded” appears.</font> | **Failed Download**<font style="color:rgb(13, 13, 13);">: When the message “Download Complete” appears, and the file is saved to your computer via the browser.</font> |
 
