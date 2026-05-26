@@ -5,10 +5,7 @@
 + **Release the button**<font style="color:rgb(13, 13, 13);">: The fan stops, and the red LED turns off.</font>
 
 ## <font style="color:rgb(42, 43, 46);">Hardware Preparation</font>
-| <!-- 这是一张图片，ocr 内容为： -->
-![](img/01QuickStart.png) | <!-- 这是一张图片，ocr 内容为： -->
-![](img/02QuickStart.png) | <!-- 这是一张图片，ocr 内容为： -->
-![](img/03QuickStart.png) |
+| ![](img/01QuickStart.png) | ![](img/02QuickStart.png) | ![](img/03QuickStart.png) |
 | :---: | :---: | :---: |
 | micro:bit Smart Hub×1 | Button Sensor×1 | Grove Cables ×3 |
 | <!-- 这是一张图片，ocr 内容为： -->
