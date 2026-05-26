@@ -13,11 +13,7 @@
 
 
 ### <font style="color:rgb(13, 13, 13);">Power on the micro:bit Smart Hub</font>
-| <!-- 这是一张图片，ocr 内容为： -->
-![](img/06QuickStart.png) | <!-- 这是一张图片，ocr 内容为： -->
-![](img/07QuickStart.png) | <!-- 这是一张图片，ocr 内容为： -->
-![](img/08QuickStart.png) |
-| :---: | :---: | :---: |
+| ![](img/06QuickStart.png) | ![](img/07QuickStart.png) | ![](img/08QuickStart.png) |
 
 
 <font style="color:rgb(13, 13, 13);">Press and hold the power button to turn on the device. Once powered up, check the battery status. The device has four indicator LEDs representing the following battery levels: 25%, 50%, 75%, and 100%. If only one LED is blinking, it indicates a low battery. In that case, use the micro USB cable to connect the device to a charger for recharging. All four LEDs will be solid when fully charged, indicating that the battery is full.</font>
