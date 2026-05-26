@@ -16,7 +16,7 @@ Schematic Drawing
 | <font style="color:rgb(26, 26, 26);">③</font> | <font style="color:rgb(13, 13, 13);">Program Download Port</font> | <font style="color:rgb(13, 13, 13);">Use a micro USB cable to download the program.</font> |
 | <font style="color:rgb(26, 26, 26);">④</font> | <font style="color:rgb(13, 13, 13);">Motor Ports</font> | <font style="color:rgb(51, 51, 51);"></font><font style="color:rgb(13, 13, 13);">DC motor driver ports.</font> |
 | <font style="color:rgb(26, 26, 26);">⑤</font> | <font style="color:rgb(13, 13, 13);">Servo Ports</font> | <font style="color:rgb(51, 51, 51);"></font><font style="color:rgb(13, 13, 13);">Servo motor driver ports.</font> |
-| <font style="color:rgb(26, 26, 26);">⑥</font> | <font style="color:rgb(13, 13, 13);">IÂ²C Ports</font> |  <font style="color:rgb(13, 13, 13);">Use Grove ports for IÂ²C communication.</font> |
+| <font style="color:rgb(26, 26, 26);">⑥</font> | <font style="color:rgb(13, 13, 13);">I²C Ports</font> |  <font style="color:rgb(13, 13, 13);">Use Grove ports for I²C communication.</font> |
 | <font style="color:rgb(26, 26, 26);">⑦</font> | <font style="color:rgb(13, 13, 13);">I/O Ports</font> | <font style="color:rgb(13, 13, 13);">Use HY2.0-4P ports to send/receive digital and analog signals.</font> |
 | <font style="color:rgb(26, 26, 26);">⑧</font> | <font style="color:rgb(13, 13, 13);">micro: bit Board</font> | <font style="color:rgb(13, 13, 13);">Gold finger interface to connect the micro: bit board.</font> |
 | <font style="color:rgb(26, 26, 26);">⑨</font> | <font style="color:rgb(13, 13, 13);">Battery Compartment</font> | <font style="color:rgb(13, 13, 13);">Built-in removable 7.4V 1000mAh Li-Po.</font> |
@@ -41,9 +41,9 @@ Schematic Drawing
 | <font style="color:rgb(13, 13, 13);">Charging Limit</font> | <font style="color:rgb(13, 13, 13);">5V=1A</font> |
 | <font style="color:rgb(13, 13, 13);">Usage Time</font> | <font style="color:rgb(13, 13, 13);">Approx. </font><font style="color:rgb(13, 13, 13);">4H</font> |
 | <font style="color:rgb(13, 13, 13);"></font><font style="color:rgb(13, 13, 13);">Main Control Board</font> | <font style="color:rgb(13, 13, 13);">micro: bit V2</font> |
-| <font style="color:rgb(13, 13, 13);"></font><font style="color:rgb(13, 13, 13);">Ports</font> | <font style="color:rgb(13, 13, 13);"></font><font style="color:rgb(13, 13, 13);">6 I/O Ports, 4 IÂ²C Ports, 4 Motor Ports, 4 Servo Ports</font> |
+| <font style="color:rgb(13, 13, 13);"></font><font style="color:rgb(13, 13, 13);">Ports</font> | <font style="color:rgb(13, 13, 13);"></font><font style="color:rgb(13, 13, 13);">6 I/O Ports, 4 I²C Ports, 4 Motor Ports, 4 Servo Ports</font> |
 | <font style="color:rgb(13, 13, 13);"></font><font style="color:rgb(13, 13, 13);">Port Voltage</font> | <font style="color:rgb(13, 13, 13);">5V</font> |
-| <font style="color:rgb(13, 13, 13);"></font><font style="color:rgb(13, 13, 13);">Compatible Software</font> | <font style="color:rgb(13, 13, 13);">MakeCodeã€Micropythonã€Scratch</font><font style="color:rgb(13, 13, 13);">, etc.</font> |
+| <font style="color:rgb(13, 13, 13);"></font><font style="color:rgb(13, 13, 13);">Compatible Software</font> | <font style="color:rgb(13, 13, 13);">MakeCode，Micropython，Scratch</font><font style="color:rgb(13, 13, 13);">, etc.</font> |
 | <font style="color:rgb(13, 13, 13);"></font><font style="color:rgb(13, 13, 13);">Suitable Age</font> | <font style="color:rgb(13, 13, 13);">6+</font> |
 | <font style="color:rgb(13, 13, 13);"></font><font style="color:rgb(13, 13, 13);">Compatibility</font> | <font style="color:rgb(13, 13, 13);">LEGO</font> |
 
