@@ -108,13 +108,13 @@
 > <font style="color:#000000;background-color:rgb(253, 253, 254);">Note: If more than one sensor is used and the same address is set, the control will be abnormal.</font>
 >
 
-**<font style="color:#000000;background-color:rgb(253, 253, 254);"></font>****<font style="color:rgb(13, 13, 13);">I²C Address Switching</font>****<font style="color:#000000;background-color:rgb(253, 253, 254);">ï¼?</font>**
+**<font style="color:rgb(13, 13, 13);">I²C Address Switching</font>**
 
 <font style="color:#000000;background-color:rgb(253, 253, 254);"></font><font style="color:rgb(13, 13, 13);">To switch the device's I²C address, long press the learning button and wait for the address indicator light to change color. Release the button when the desired address is reached.</font>
 
 The following table lists the correspondence between the I²C slave address of the device, the color of the sensor indicator and the group number in the program extension. Please pay attention to the comparison.
 
-| **<font style="color:rgb(13, 13, 13);">I²C Address</font>** | <font style="color:rgb(13, 13, 13);">Group Number</font>** | **<font style="color:rgb(13, 13, 13);">Color</font>** |
+| **<font style="color:rgb(13, 13, 13);">I²C Address</font>** | <font style="color:rgb(13, 13, 13);">Group Number</font> | **<font style="color:rgb(13, 13, 13);">Color</font>** |
 | :---: | :---: | :---: |
 | 0x70<font style="color:rgb(13, 13, 13);"> (Default)</font> | 0<font style="color:rgb(13, 13, 13);"> (Default)</font> | Any |
 | 0x71 | 1 | <font style="color:rgb(13, 13, 13);">White</font> |
