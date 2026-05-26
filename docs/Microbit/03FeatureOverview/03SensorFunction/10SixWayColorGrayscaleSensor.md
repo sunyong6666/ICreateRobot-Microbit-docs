@@ -100,7 +100,7 @@
 <font style="color:rgb(13, 13, 13);">The digital output function is used to distinguish between a black line and the background. The threshold for determining the line or background depends on the learned values, so it is essential to perform environment-specific learning.</font>
 
 ## <font style="color:rgb(0,0,0);"></font>**<font style="color:rgb(13, 13, 13);">Modular Coding</font>**
-<font style="color:rgb(13, 13, 13);">Click here to access the </font>[Six-Way Color and Grayscale Sensor extension](https://www.icrobot.com/www/cn/index.html#/file/index?type2=micro%EF%BC%9Abit)<font style="color:rgb(13, 13, 13);">.</font>
+<font style="color:rgb(13, 13, 13);">Click here to access the </font>[Six-Way Color and Grayscale Sensor extension](https://github.com/ICreateRobot/microbit)<font style="color:rgb(13, 13, 13);">.</font>
 
 ### **<font style="color:rgb(13, 13, 13);">Address Selection</font>**
 <font style="color:#000000;background-color:rgb(253, 253, 254);"></font><font style="color:rgb(13, 13, 13);">The sensor has one default IÂ²C slave address and four selectable addresses, which are indicated by different LED colors. When only one sensor is in use, the default address 0 can be used. When multiple sensors are used, each should be assigned a unique address, and the corresponding group number should be selected in the programming interface.</font>
