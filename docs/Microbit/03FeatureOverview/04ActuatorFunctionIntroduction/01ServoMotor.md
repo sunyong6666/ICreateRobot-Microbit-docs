@@ -18,7 +18,7 @@ The servo motor is a versatile module that supports multiple rotation control mo
 + External terminal connection for quick wire replacement.  
 + Multi-directional reserved axle pin connection design.  
 
-##  Structural  
+## Structural  
 
 ![](img/ServoMotor02.png)
 
