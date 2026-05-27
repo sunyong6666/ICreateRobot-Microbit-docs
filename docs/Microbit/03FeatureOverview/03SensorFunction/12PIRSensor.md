@@ -15,13 +15,9 @@
 
 
 ## **<font style="color:rgb(13, 13, 13);">Usage</font>**
-| <br/><!-- 这是一张图片，ocr 内容为： -->
-![](img/PIR1.png) | | |
+| ![](img/PIR1.png) | | |
 | :---: | --- | --- |
-| <!-- 这是一张图片，ocr 内容为： -->
-![](img/PIR2.png) | <!-- 这是一张图片，ocr 内容为： -->
-![](img/PIR3.png) | <!-- 这是一张图片，ocr 内容为： -->
-![](img/PIR4.png) |
+| ![](img/PIR2.png) | ![](img/PIR3.png) | ![](img/PIR4.png) |
 | _<font style="color:rgb(13, 13, 13);">Side View</font>_ | _<font style="color:rgb(13, 13, 13);">Front View</font>_ | _<font style="color:rgb(13, 13, 13);">Side View</font>_ |
 | <font style="color:rgba(0, 0, 0, 0.85);">PIR Sensor</font> Connection Diagram | | |
 
