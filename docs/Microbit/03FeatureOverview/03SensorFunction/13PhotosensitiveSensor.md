@@ -15,13 +15,9 @@ The Photosensitive Sensor is a device that converts light signals into electrica
 
 
 ## **<font style="color:rgb(13, 13, 13);">Usage</font>**
-| <!-- 这是一张图片，ocr 内容为： -->
-![](img/p1.png) | | |
+| ![](img/p1.png) | | |
 | :---: | --- | --- |
-| <!-- 这是一张图片，ocr 内容为： -->
-![](img/p2.png) | <!-- 这是一张图片，ocr 内容为： -->
-![](img/p3.png) | <!-- 这是一张图片，ocr 内容为： -->
-![](img/p4.png) |
+| ![](img/p2.png) | ![](img/p3.png) | ![](img/p4.png) |
 | _<font style="color:rgb(13, 13, 13);">Side View</font>_ | _<font style="color:rgb(13, 13, 13);">Front View</font>_ | _<font style="color:rgb(13, 13, 13);">Side View</font>_ |
 | **<font style="color:rgb(13, 13, 13);">Photosensitive Sensor Connection Diagram</font>** | | |
 
