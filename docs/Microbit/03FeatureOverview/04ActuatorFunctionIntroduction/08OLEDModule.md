@@ -25,7 +25,7 @@ OLED (Organic Light Emitting Diode) displays use organic materials to emit light
 | _<font style="color:rgb(13, 13, 13);">Side View</font>_ | _<font style="color:rgb(13, 13, 13);">Front View</font>_ | _<font style="color:rgb(13, 13, 13);">Side View</font>_ |
 
 
-**OLED Module Connection Diagram  **
+**OLED Module Connection Diagram**
 
 
 
