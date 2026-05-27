@@ -17,13 +17,9 @@ The <font style="color:rgb(35,31,32);">MQ-2 Gas Sensor</font> uses tin dioxide (
 
 
 ## **<font style="color:rgb(13, 13, 13);">Usage</font>**
-| <!-- 这是一张图片，ocr 内容为： -->
-![](img/MQ1.png) | | |
+| ![](img/MQ1.png) | | |
 | :---: | --- | --- |
-| <!-- 这是一张图片，ocr 内容为： -->
-![](img/MQ2.png) | <!-- 这是一张图片，ocr 内容为： -->
-![](img/MQ3.png) | <!-- 这是一张图片，ocr 内容为： -->
-![](img/MQ4.png) |
+| ![](img/MQ2.png) | ![](img/MQ3.png) | ![](img/MQ4.png) |
 | _<font style="color:rgb(13, 13, 13);">Side View</font>_ | _<font style="color:rgb(13, 13, 13);">Front View</font>_ | _<font style="color:rgb(13, 13, 13);">Side View</font>_ |
 | **<font style="color:rgb(13, 13, 13);">MQ-2 Gas Sensor Connection Diagram</font>** | | |
 
