@@ -16,7 +16,7 @@
 
 This extension includes two main categories: "Sensors" and "Actuators." Depending on the peripheral module’s attributes, you should use the appropriate block under the corresponding category. For example, to use the potentiometer module, which belongs to sensors, you need to find the corresponding block under the sensor category. 
 
-For information on importing extensions, refer to the [Quick Start](https://www.yuque.com/alexzhao-gaou9/icreaterobot/teyh2zhi7yg2y1yy) guide.  
+For information on importing extensions, refer to the [Quick Start](https://icreaterobot-microbit-docs.readthedocs.io/en/latest/docs/Microbit/02QuickStart.html) guide.  
 
 ### Sensor Modules  
 <font style="background-color:rgb(253, 253, 254);">The table below details the output type and data type parameters for the extended sensors in the micro:bit kit.  </font>
