@@ -15,13 +15,9 @@
 
 
 ## <font style="color:rgb(0,0,0);"></font>**<font style="color:rgb(13, 13, 13);">Usage</font>**
-| <!-- 这是一张图片，ocr 内容为： -->
-![](img/B1.png) | | |
+| ![](img/B1.png) | | |
 | :---: | --- | --- |
-| <!-- 这是一张图片，ocr 内容为： -->
-![](img/B2.png) | <!-- 这是一张图片，ocr 内容为： -->
-![](img/B3.png) | <!-- 这是一张图片，ocr 内容为： -->
-![](img/B4.png) |
+| ![](img/B2.png) | ![](img/B3.png) | ![](img/B4.png) |
 | <font style="color:rgb(0,0,0);">Side View</font> | <font style="color:rgb(0,0,0);">Front View</font> | <font style="color:rgb(0,0,0);">Side View</font> |
 | <font style="color:rgb(0,0,0);">Button Sensor Connection Diagram</font> | | |
 
