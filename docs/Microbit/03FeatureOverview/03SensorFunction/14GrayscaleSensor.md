@@ -15,13 +15,9 @@ The Grayscale Sensor is equipped with two high-brightness white LEDs and a photo
 
 
 ## **<font style="color:rgb(13, 13, 13);">Usage</font>**
-| <!-- 这是一张图片，ocr 内容为： -->
-![](img/G1.png) | | |
+| ![](img/G1.png) | | |
 | :---: | --- | --- |
-| <!-- 这是一张图片，ocr 内容为： -->
-![](img/G2.png) | <!-- 这是一张图片，ocr 内容为： -->
-![](img/G3.png) | <!-- 这是一张图片，ocr 内容为： -->
-![](img/G4.png) |
+| ![](img/G2.png) | ![](img/G3.png) | ![](img/G4.png) |
 | _<font style="color:rgb(13, 13, 13);">Side View</font>_ | _<font style="color:rgb(13, 13, 13);">Front View</font>_ | _<font style="color:rgb(13, 13, 13);">Side View</font>_ |
 | **<font style="color:rgb(13, 13, 13);">Grayscale Sensor Connection Diagram</font>** | | |
 
