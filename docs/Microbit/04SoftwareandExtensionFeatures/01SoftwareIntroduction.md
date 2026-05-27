@@ -1,5 +1,5 @@
 # Software Introduction
-_**For basic usage of the software, please refer to the **_[**Quick Start**](about:blank)** Guide**_**.  **_
+For basic usage of the software, please refer to the [**Quick Start**](about:blank)**Guide** 
 ## MakeCode Interface Functions  
 ### Coding Interface  
 ![](img/S01.png)
