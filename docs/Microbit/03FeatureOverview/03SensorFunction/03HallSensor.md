@@ -7,7 +7,7 @@
 | :---: | :---: |
 | <font style="color:rgb(13, 13, 13);">Name</font> | Hall Sensor |
 | Code | B0020009 |
-|  Dimensions  | 28 Ã—24ï¼ˆmmï¼? |
+|  Dimensions  | 28 x 24 x 12 mm |
 | <font style="color:rgb(13, 13, 13);">Voltage</font> | 5V - DC |
 | <font style="color:rgb(13, 13, 13);">Data Type</font> | Analog Signal |
 | <font style="color:rgb(13, 13, 13);">Data Range</font> | 0 or 1 |
