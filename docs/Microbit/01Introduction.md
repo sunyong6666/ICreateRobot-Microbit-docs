@@ -19,9 +19,9 @@
 | ![](img/22Introduction.png) | ![](img/23Introduction.png) | ![](img/24Introduction.png) | ![](img/25Introduction.png) |
 | Flame Sensor | Hall Sensor | Grayscale Sensor  | Photosensitive Sensor |
 | ![](img/26Introduction.png) | ![](img/27Introduction.png) | ![](img/28Introduction.png) | ![](img/29Introduction.png) |
-| Button Sensor | Soil Moisture Sensor  | Water Level Sensor | Long-Range Photoelectric Sensor |
+| Button Sensor | Soil Moisture Sensor  | Water Level Sensor | Long-Range <br/>Photoelectric Sensor |
 | ![](img/30Introduction.png) | | ![](img/31Introduction.png) | ![](img/32Introduction.png) |
-| Six way Color&Gray Sensor | | Grove Cable | Grove Male-to-Female Cable |
+| Six way Color&Gray Sensor | | Grove Cable | Grove<br/> Male-to-Female Cable |
 
 
 > <font style="color:rgb(13, 13, 13);">The above shows the modules and sensors included in the set. </font>
