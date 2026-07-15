@@ -50,20 +50,20 @@
 | Yellow LED Module | 1  | 1  | 1  | — |
 | Blue LED Module | 1  | 1  | 1  | — |
 | Green LED Module  | 1  | 1  | 1  | — |
-| Ultrasonic Sensor  | 1  | 1  | 1  | — |
+| Ultrasonic Sensor  | 1  | — | 1  | — |
 | MQ-2 Gas Sensor | 1  | 1  | — | — |
 | PIR Sensor | — | 1  | — | — |
-| Temperature Sensor | 1  | 1  | — | — |
+| Temperature Sensor | 1  | — | — | — |
 | Flame Sensor  | 1  | 1  | — | — |
 | Hall Sensor | 1  | 1  | 1  | — |
 | Grayscale Sensor  | 2  | 2  | 2  | — |
 | Photosensitive Sensor   | 1  | 1  | — | — |
-| Button Sensor | 1  | 1  | 1  | 3  |
+| Button Sensor | 1  | 2  | 1  | 3  |
 | Soil Humidity Sensor | 1  | 1  | — | — |
-| Water Level Sensor  | 1  | 1  | — | — |
-| Long-range Photoelectric Sensor | 1  | 1  | — | — |
-| Grove Cable | 10  | 10  | 10  | 10  |
-| Grove Male-to-Female Cable | 10  | 10  | 10  | — |
+| Water Level Sensor  | 1  | — | — | — |
+| Long-range Photoelectric Sensor | 1  | 2 | — | — |
+| Grove Cable | 10 | 10 | 10 | 10 |
+| Grove Male-to-Female Cable | 10 | 10 | 10  | — |
 
 
 
