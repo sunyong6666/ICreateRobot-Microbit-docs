@@ -21,7 +21,7 @@
 | :---: | --- | --- |
 | ![](img/02Potentiometer.png) | ![](img/03Hall.png) | ![](img/04Potentiometer.png) |
 | _<font style="color:rgb(13, 13, 13);">Side View</font>_ | _<font style="color:rgb(13, 13, 13);">Front View</font>_ | _<font style="color:rgb(13, 13, 13);">Side View</font>_ |
-| **<font style="color:rgb(13, 13, 13);">Hall Sensor Connection Diagram</font>** | | |
+
 
 
 <font style="color:rgb(13, 13, 13);">The Hall sensor can be connected to the P0, P1, P2, P8, P12, or P16 ports on the micro: bit hub. By coding, its output value can be read. When a magnet is detected nearby, the Hall sensor outputs a low logic level (0). In the absence of a magnet, it outputs a high logic level (1).</font>
