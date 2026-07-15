@@ -21,7 +21,7 @@ The Potentiometer Module is a component that adjusts resistance values based on 
 | :---: | --- | --- |
 | ![](img/02Potentiometer.png) | ![](img/03Potentiometer.png) | ![](img/04Potentiometer.png) |
 | _<font style="color:rgb(13, 13, 13);">Side View</font>_ | _<font style="color:rgb(13, 13, 13);">Front View</font>_ | _<font style="color:rgb(13, 13, 13);">Side View</font>_ |
-| **<font style="color:rgb(13, 13, 13);">Potentiometer Module Connection Diagram</font>** | | |
+ **<font style="color:rgb(13, 13, 13);">Potentiometer Module Connection Diagram</font>** 
 
 
 <font style="color:rgb(0,0,0);">The potentiometer module can be connected to the P0, P1, or P2 ports of the </font>**micro: bit smart hub**<font style="color:rgb(0,0,0);">. In the coding environment, the analog values from the potentiometer module can be read. Its characteristics are as follows:  </font>
