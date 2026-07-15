@@ -2,7 +2,7 @@
 ## <font style="color:rgb(13, 13, 13);">Introduction</font>
 ![](img/01hub.png)
 
-<font style="color:rgb(13, 13, 13);">The </font>**<font style="color:rgb(13, 13, 13);">micro: bit Smart Hub</font>**<font style="color:rgb(13, 13, 13);"> is a versatile expansion device designed for the micro: bit development board, offering a wide range of interfaces and high compatibility. It features 6 standard I/O sensor ports, 4 IÂ²C ports, 4 DC motor ports, and 4 servo ports, all using the Grove open-source standard. The hub connects directly to the micro: bit board and is compatible with most Grove hardware. It seamlessly integrates with LEGO bricks, enabling students to create innovative STEM projects with micro: bit technology.</font>
+<font style="color:rgb(13, 13, 13);">The </font>**<font style="color:rgb(13, 13, 13);">micro: bit Smart Hub</font>**<font style="color:rgb(13, 13, 13);"> is a versatile expansion device designed for the micro: bit development board, offering a wide range of interfaces and high compatibility. It features 6 standard I/O sensor ports, 4 I²C ports, 4 DC motor ports, and 4 servo ports, all using the Grove open-source standard. The hub connects directly to the micro: bit board and is compatible with most Grove hardware. It seamlessly integrates with LEGO bricks, enabling students to create innovative STEM projects with micro: bit technology.</font>
 
 ## <font style="color:rgb(13, 13, 13);">Structure</font>
 ![](img/02hub.png)
@@ -12,7 +12,7 @@ Schematic Drawing
 | No. | <font style="color:rgb(26, 26, 26);">Item</font> | **<font style="color:rgb(13, 13, 13);">Description</font>** |
 | :---: | :---: | --- |
 | <font style="color:rgb(26, 26, 26);">①</font> | <font style="color:rgb(13, 13, 13);">Power Button</font> | <font style="color:rgb(13, 13, 13);">Press and hold for 1.5 seconds to turn on/off.</font> |
-| <font style="color:rgb(26, 26, 26);">②</font> | <font style="color:rgb(13, 13, 13);">Battery Indicator</font> | <font style="color:rgb(13, 13, 13);">Four red LEDs indicate battery status. All LEDs light up when fully charged, and LEDs blink or turn off at 75%, 50%, 25%, and 0%. Red LEDs blink while charging to show the current battery level.</font> |
+| <font style="color:rgb(26, 26, 26);">②</font> | <font style="color:rgb(13, 13, 13);">Battery Indicator</font> | <font style="color:rgb(13, 13, 13);">Four red LEDs indicate battery status. All LEDs light up when fully charged, <br/>and LEDs blink or turn off at 75%, 50%, 25%, and 0%. Red LEDs blink while charging to show the current battery level.</font> |
 | <font style="color:rgb(26, 26, 26);">③</font> | <font style="color:rgb(13, 13, 13);">Program Download Port</font> | <font style="color:rgb(13, 13, 13);">Use a micro USB cable to download the program.</font> |
 | <font style="color:rgb(26, 26, 26);">④</font> | <font style="color:rgb(13, 13, 13);">Motor Ports</font> | <font style="color:rgb(51, 51, 51);"></font><font style="color:rgb(13, 13, 13);">DC motor driver ports.</font> |
 | <font style="color:rgb(26, 26, 26);">⑤</font> | <font style="color:rgb(13, 13, 13);">Servo Ports</font> | <font style="color:rgb(51, 51, 51);"></font><font style="color:rgb(13, 13, 13);">Servo motor driver ports.</font> |
@@ -57,7 +57,7 @@ Standard I/O interface connection diagram
 
 ![](img/03hub.gif)
 
-IÂ²C interface connection diagra
+I²C interface connection diagra
 
 ![](img/04hub.gif)
 
