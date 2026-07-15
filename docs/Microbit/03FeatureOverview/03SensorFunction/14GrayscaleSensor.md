@@ -17,9 +17,8 @@ The Grayscale Sensor is equipped with two high-brightness white LEDs and a photo
 ## **<font style="color:rgb(13, 13, 13);">Usage</font>**
 | ![](img/G1.png) | | |
 | :---: | --- | --- |
-| ![](img/G2.png) | ![](img/G3.png) | ![](img/G4.png) |
+| ![](img/02Potentiometer.png) | ![](img/G3.png) | ![](img/04Potentiometer.png) |
 | _<font style="color:rgb(13, 13, 13);">Side View</font>_ | _<font style="color:rgb(13, 13, 13);">Front View</font>_ | _<font style="color:rgb(13, 13, 13);">Side View</font>_ |
-| **<font style="color:rgb(13, 13, 13);">Grayscale Sensor Connection Diagram</font>** | | |
 
 
 <font style="color:rgb(0,0,0);">The grayscale sensor can be connected to the P0, P1, and P2 interfaces of the micro:bit smart hub. In the coding environment, users can read the analog values of the grayscale sensor. Its characteristic is that the stronger the reflected light, the higher the output value of the grayscale sensor. Conversely, the weaker the reflected light, the smaller the output value of the grayscale sensor.  </font>
