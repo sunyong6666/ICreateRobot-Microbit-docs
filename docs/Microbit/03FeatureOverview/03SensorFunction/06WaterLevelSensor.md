@@ -11,13 +11,13 @@
 | <font style="color:rgb(13, 13, 13);">Data Type</font> |  Analog<font style="color:rgb(13, 13, 13);"> Signal</font> |
 | <font style="color:rgb(13, 13, 13);">Data Range</font> | <font style="color:rgb(0,0,0);">0~1023</font> |
 | <font style="color:rgb(13, 13, 13);">Ports</font> | <font style="color:rgba(0, 0, 0, 0.85);">Grove </font> |
-|  Dimensions   | 80 × 24 mm   |
+|  Dimensions   | 80 × 24 × 12 mm   |
 
 
 ## **<font style="color:rgb(13, 13, 13);">Usage</font>**
 | ![](img/01Water.png) | | |
 | :---: | --- | --- |
-| ![](img/02Water.png) | ![](img/03Water.png) | ![](img/04Water.png) |
+| ![](img/02Potentiometer.png) | ![](img/03Water.png) | ![](img/04Potentiometer.png) |
 | _<font style="color:rgb(13, 13, 13);">Side View</font>_ | _<font style="color:rgb(13, 13, 13);">Front View</font>_ | _<font style="color:rgb(13, 13, 13);">Side View</font>_ |
 | **<font style="color:rgb(13, 13, 13);">Water Level Sensor Connection Diagram</font>** | | |
 
