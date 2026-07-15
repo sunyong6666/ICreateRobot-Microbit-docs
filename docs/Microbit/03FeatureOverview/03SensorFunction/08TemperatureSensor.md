@@ -14,16 +14,12 @@ The temperature sensor is specifically designed for humid environments. During o
 | <font style="color:rgb(13, 13, 13);">Ports</font> | <font style="color:rgb(0,0,0);">Grove</font> |
 
 
-
-
 ## Usage
-
 
 | ![](img/01Temperature.png) | | |
 | :---: | --- | --- |
 | ![](img/02Potentiometer.png) | ![](img/03Temperature.png) | ![](img/04Potentiometer.png) |
 | _<font style="color:rgb(13, 13, 13);">Side View</font>_ | _<font style="color:rgb(13, 13, 13);">Front View</font>_ | _<font style="color:rgb(13, 13, 13);">Side View</font>_ |
-| <font style="color:rgb(0,0,0);">Temperature Sensor </font>Connection Diagram | | |
 
 
 The temperature sensor can connect to **P0**, **P1**, or **P2** ports of the **micro:bit hub**. In the coding environment, the analog values of the sensor can be read. Its characteristics include:  
