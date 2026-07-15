@@ -6,7 +6,7 @@ The <font style="color:rgb(35,31,32);">MQ-2 Gas Sensor</font> uses tin dioxide (
 | Item | **<font style="color:rgb(13, 13, 13);">Description</font>** |
 | :---: | :---: |
 | Name | <font style="color:rgb(35,31,32);">MQ-2 Gas Sensor</font> |
-| Code | B0020005 |
+| Code | B0020040 |
 | Dimension | <font style="color:rgb(0,0,0);">40×24×12 mm</font> |
 | Voltage | <font style="color:rgb(0,0,0);">5V - DC</font> |
 | <font style="color:rgb(13, 13, 13);">Ports</font> | <font style="color:rgba(0, 0, 0, 0.85);">Grove</font> |
@@ -19,9 +19,8 @@ The <font style="color:rgb(35,31,32);">MQ-2 Gas Sensor</font> uses tin dioxide (
 ## **<font style="color:rgb(13, 13, 13);">Usage</font>**
 | ![](img/MQ1.png) | | |
 | :---: | --- | --- |
-| ![](img/MQ2.png) | ![](img/MQ3.png) | ![](img/MQ4.png) |
+| ![](img/02Potentiometer.png) | ![](img/MQ3.png) | ![](img/04Potentiometer.png) |
 | _<font style="color:rgb(13, 13, 13);">Side View</font>_ | _<font style="color:rgb(13, 13, 13);">Front View</font>_ | _<font style="color:rgb(13, 13, 13);">Side View</font>_ |
-| **<font style="color:rgb(13, 13, 13);">MQ-2 Gas Sensor Connection Diagram</font>** | | |
 
 
 <font style="color:rgb(35,31,32);">The combustible gas sensor can be connected to the P0, P1, and P2 interfaces of the micro:bit smart hub. In the coding environment, the analog values of the combustible gas sensor can be read. Its characteristic is that the sensor's output increases with the concentration of combustible gas; conversely, when the gas concentration decreases, the detected value decreases accordingly.  </font>
