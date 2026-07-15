@@ -17,7 +17,7 @@
 ## <font style="color:rgb(0,0,0);"></font>**<font style="color:rgb(13, 13, 13);">Usage</font>**
 | ![](img/B1.png) | | |
 | :---: | --- | --- |
-| ![](img/02Potentiometer.png) | ![](img/B3.png) | ![](img/04Potentiometer.png) |
+| ![](img/02Potentiometer.png) | ![](img/03Potentiometer.png) | ![](img/04Potentiometer.png) |
 | <font style="color:rgb(0,0,0);">Side View</font> | <font style="color:rgb(0,0,0);">Front View</font> | <font style="color:rgb(0,0,0);">Side View</font> |
 
 
