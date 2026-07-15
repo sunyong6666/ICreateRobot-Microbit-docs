@@ -19,7 +19,6 @@
 | :---: | --- | --- |
 | ![](img/02Potentiometer.png) | ![](img/B3.png) | ![](img/04Potentiometer.png) |
 | <font style="color:rgb(0,0,0);">Side View</font> | <font style="color:rgb(0,0,0);">Front View</font> | <font style="color:rgb(0,0,0);">Side View</font> |
-| <font style="color:rgb(0,0,0);">Button Sensor Connection Diagram</font> | | |
 
 
 <font style="color:rgb(0,0,0);">The button sensor can be connected to the ordinary sensor interfaces of the micro:bit smart hub, such as P0, P1, P2, P8, P12, and P16. You can program to read the status of the button sensor. When the button is pressed, the button sensor outputs "0". When the button is released, the button sensor outputs "1".  </font>
