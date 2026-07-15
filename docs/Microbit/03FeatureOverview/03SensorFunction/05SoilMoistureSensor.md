@@ -1,6 +1,6 @@
 # Soil Moisture Sensor
 ## **<font style="color:rgb(13, 13, 13);">Principle</font>**
-<font style="color:rgb(13, 13, 13);">The soil humidity sensor operates based on the impact of soil moisture content on its resistance. In dry soil, the lack of moisture as a conductive medium results in high resistance; in moist soil, water dissolves some of the salts in the soil, forming an electrolyte solution that significantly lowers the soil's resistivity. By applying a certain voltage between two electrodes and monitoring the resulting current changes or directly measuring the resistance changes, the moisture level in the soil can be accurately assessed.</font>
+<font style="color:rgb(13, 13, 13);">The Soil Moisture Sensor operates based on the impact of soil moisture content on its resistance. In dry soil, the lack of moisture as a conductive medium results in high resistance; in moist soil, water dissolves some of the salts in the soil, forming an electrolyte solution that significantly lowers the soil's resistivity. By applying a certain voltage between two electrodes and monitoring the resulting current changes or directly measuring the resistance changes, the moisture level in the soil can be accurately assessed.</font>
 
 ## <font style="color:rgb(13, 13, 13);">Specifications</font>
 | Item | **<font style="color:rgb(13, 13, 13);">Description</font>** |
@@ -11,14 +11,14 @@
 | <font style="color:rgb(13, 13, 13);">Data Type</font> | <font style="color:rgb(13, 13, 13);"> Analog Signal</font> |
 | <font style="color:rgb(13, 13, 13);">Data Range</font> | 0~1023 |
 | <font style="color:rgb(13, 13, 13);">Ports</font> | Grove |
-|  Dimensions   | 79×24 (mm) |
+|  Dimensions   | 79×24×12 mm |
 
 
 ## **<font style="color:rgb(13, 13, 13);">Usage</font>**
 | ![](img/01Soil.png) | | |
 | :---: | --- | --- |
-| ![](img/02Soil.png) | ![](img/03Soil.png) | ![](img/04Soil.png) |
-| _<font style="color:rgb(13, 13, 13);">Side View</font>_ | _<font style="color:rgb(13, 13, 13);">Front View</font>_ | _<font style="color:rgb(13, 13, 13);">Side View</font>_ |
+| ![](img/02Potentiometer.png) | ![](img/03Soil.png) | ![](img/04.png) |
+| _<font Potentiometerstyle="color:rgb(13, 13, 13);">Side View</font>_ | _<font style="color:rgb(13, 13, 13);">Front View</font>_ | _<font style="color:rgb(13, 13, 13);">Side View</font>_ |
 | **<font style="color:rgb(13, 13, 13);">Soil Humidity Sensor Connection Diagram</font>** | | |
 
 
