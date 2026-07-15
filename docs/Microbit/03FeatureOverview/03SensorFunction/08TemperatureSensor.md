@@ -21,7 +21,7 @@ The temperature sensor is specifically designed for humid environments. During o
 
 | ![](img/01Temperature.png) | | |
 | :---: | --- | --- |
-| ![](img/02Temperature.png) | ![](img/03Temperature.png) | ![](img/04Temperature.png) |
+| ![](img/02Potentiometer.png) | ![](img/03Temperature.png) | ![](img/04Potentiometer.png) |
 | _<font style="color:rgb(13, 13, 13);">Side View</font>_ | _<font style="color:rgb(13, 13, 13);">Front View</font>_ | _<font style="color:rgb(13, 13, 13);">Side View</font>_ |
 | <font style="color:rgb(0,0,0);">Temperature Sensor </font>Connection Diagram | | |
 
