@@ -17,7 +17,7 @@ The Grayscale Sensor is equipped with two high-brightness white LEDs and a photo
 ## **<font style="color:rgb(13, 13, 13);">Usage</font>**
 | ![](img/G1.png) | | |
 | :---: | --- | --- |
-| ![](img/02Potentiometer.png) | ![](img/G3.png) | ![](img/04Potentiometer.png) |
+| ![](img/02Potentiometer.png) | ![](img/03Potentiometer.png) | ![](img/04Potentiometer.png) |
 | _<font style="color:rgb(13, 13, 13);">Side View</font>_ | _<font style="color:rgb(13, 13, 13);">Front View</font>_ | _<font style="color:rgb(13, 13, 13);">Side View</font>_ |
 
 
