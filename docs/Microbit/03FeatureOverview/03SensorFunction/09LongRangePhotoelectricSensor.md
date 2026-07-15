@@ -19,7 +19,6 @@
 | :---: | --- | --- |
 | ![](img/02Potentiometer.png) | ![](img/03Long.png) | ![](img/04Potentiometer.png) |
 | _<font style="color:rgb(13, 13, 13);">Side View</font>_ | _<font style="color:rgb(13, 13, 13);">Front View</font>_<font style="color:rgb(13, 13, 13);"> </font> | _<font style="color:rgb(13, 13, 13);">Side View</font>_ |
-| **<font style="color:rgb(13, 13, 13);">Long-range Photoelectric Sensor Connection Diagram</font>** | | |
 
 
 <font style="color:rgb(13, 13, 13);">The long-range photoelectric sensor can be connected to the P0, P1, P2, P8, P12, or P16 ports on the micro:bit Intelligent Hub. By programming, its status can be monitored. When an obstacle is detected, the sensor outputs a low logic level ("0") and the red indicator light turns on. In the absence of an obstacle, it outputs a high logic level ("1") and the red light is off.</font>
