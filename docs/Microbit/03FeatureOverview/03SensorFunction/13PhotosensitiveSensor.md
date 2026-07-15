@@ -17,9 +17,8 @@ The Photosensitive Sensor is a device that converts light signals into electrica
 ## **<font style="color:rgb(13, 13, 13);">Usage</font>**
 | ![](img/p1.png) | | |
 | :---: | --- | --- |
-| ![](img/p2.png) | ![](img/p3.png) | ![](img/p4.png) |
+| ![](img/02Potentiometer.png) | ![](img/p3.png) | ![](img/04Potentiometer.png) |
 | _<font style="color:rgb(13, 13, 13);">Side View</font>_ | _<font style="color:rgb(13, 13, 13);">Front View</font>_ | _<font style="color:rgb(13, 13, 13);">Side View</font>_ |
-| **<font style="color:rgb(13, 13, 13);">Photosensitive Sensor Connection Diagram</font>** | | |
 
 
 The photosensitive sensor can be connected to the P0, P1, and P2 interfaces of the micro:bit smart hub. In the coding environment, users can read the analog values from the sensor. Its characteristic is that the stronger the light, the higher the value output by the sensor; conversely, in a darker environment, the sensor's output value decreases.
