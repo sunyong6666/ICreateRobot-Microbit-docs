@@ -11,13 +11,13 @@
 | <font style="color:rgb(13, 13, 13);">Data Type</font> |  Analog<font style="color:rgb(13, 13, 13);"> Signal</font> |
 | <font style="color:rgb(13, 13, 13);">Data Range</font> | 0~1023 |
 | <font style="color:rgb(13, 13, 13);">Ports</font> | Grove |
-|  Dimensions   | 36.5×24 (mm) |
+|  Dimensions   | 36.5×24×12 mm |
 
 
 ## **<font style="color:rgb(13, 13, 13);">Usage</font>**
 | ![](img/01Flame.png) | | |
 | :---: | --- | --- |
-| ![](img/02Flame.png) | ![](img/03Flame.png) | ![](img/04Flame.png) |
+| ![](img/02Potentiometer.png) | ![](img/03Flame.png) | ![](img/04Potentiometer.png) |
 | _<font style="color:rgb(13, 13, 13);">Side View</font>_ | _<font style="color:rgb(13, 13, 13);">Front View</font>_ | _<font style="color:rgb(13, 13, 13);">Side View</font>_ |
 | **<font style="color:rgb(13, 13, 13);">Flame Sensor Connection Diagram</font>** | | |
 
