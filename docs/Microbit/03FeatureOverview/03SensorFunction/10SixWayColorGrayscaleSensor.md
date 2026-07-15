@@ -1,13 +1,4 @@
 # Six-Way Color & Grayscale Sensor
-## **<font style="color:rgb(13, 13, 13);">Overview</font>**
-![](img/01six.png)
-
-<font style="color:rgb(0,0,0);">The six-way color grayscale sensor uses three pairs of photosensitive elements to sense the color of the surface. It can also assist the robot in line following while sensing the color of the object.</font>
-
-<font style="color:rgb(0,0,0);">This module can output multi-level data, ranging from analog signals representing light intensity, digital ally processed lines and background recognition information. The design not only ensures the user's simple operation, but also gives a high degree of flexibility, which is very suitable for teachers to explain the relevant knowledge and principle of line inspection technology and color recognition according to the teaching needs.</font>
-
-<font style="color:rgb(0,0,0);">In addition, the module is equipped with cutting-edge adaptive learning functions. By intelligently learning and recognizing diverse background and line colors, it can automatically set and optimize the judgment threshold, so as to significantly improve the accuracy and environmental adaptability of the application, and provide users with a more intelligent and efficient use experience.</font>
-
 ## <font style="color:rgb(5, 7, 59);background-color:rgb(253, 253, 254);"></font>**<font style="color:rgb(13, 13, 13);">Principle </font>**
 ![](img/02six.png)
 
@@ -67,10 +58,9 @@
 ### <font style="color:rgb(13, 13, 13);">Connection Diagram</font>
 
 
-| ![](img/04six.png) | ![](img/05six.png) | ![](img/06six.png) |
+| ![](img/02Potentiometer.png) | ![](img/05six.png) | ![](img/04Potentiometer.png) |
 | :---: | :---: | :---: |
 | _<font style="color:rgb(13, 13, 13);">Side View</font>_ | _<font style="color:rgb(13, 13, 13);">Front View</font>_<font style="color:rgb(13, 13, 13);"> </font> | _<font style="color:rgb(13, 13, 13);">Side View</font>_ |
-| **<font style="color:rgb(13, 13, 13);">Six-Way Color & Grayscale Sensor Connection Diagram</font>** | | |
 
 
 <font style="color:rgb(13, 13, 13);">The Six-Way Color and Grayscale Sensor uses IIC communication and can be connected to any I²C interface on the micro:bit Intelligent Hub.</font>
@@ -103,7 +93,7 @@
 <font style="color:rgb(13, 13, 13);">Click here to access the </font>[Six-Way Color and Grayscale Sensor extension](https://github.com/ICreateRobot/microbit)<font style="color:rgb(13, 13, 13);">.</font>
 
 ### **<font style="color:rgb(13, 13, 13);">Address Selection</font>**
-<font style="color:#000000;background-color:rgb(253, 253, 254);"></font><font style="color:rgb(13, 13, 13);">The sensor has one default IÂ²C slave address and four selectable addresses, which are indicated by different LED colors. When only one sensor is in use, the default address 0 can be used. When multiple sensors are used, each should be assigned a unique address, and the corresponding group number should be selected in the programming interface.</font>
+<font style="color:#000000;background-color:rgb(253, 253, 254);"></font><font style="color:rgb(13, 13, 13);">The sensor has one default I²C slave address and four selectable addresses, which are indicated by different LED colors. When only one sensor is in use, the default address 0 can be used. When multiple sensors are used, each should be assigned a unique address, and the corresponding group number should be selected in the programming interface.</font>
 
 > <font style="color:#000000;background-color:rgb(253, 253, 254);">Note: If more than one sensor is used and the same address is set, the control will be abnormal.</font>
 >
@@ -124,12 +114,12 @@ The following table lists the correspondence between the I²C slave address of t
 
 
 ### **<font style="color:rgb(13, 13, 13);">Program Calibration</font>**
-![](img/11six.gif)
+![](img/07six.gif)
 
 <font style="color:rgb(13, 13, 13);">When the sensor is installed in a location where direct operation of the learning button is difficult, the sensor can be controlled through a calibration program block. By selecting an address number (0 ~ 4), the corresponding sensor can be instructed to enter learning mode. For the specific steps of the learning operation, please refer to the button learning function described in the previous section.</font>
 
 ### <font style="color:rgb(5, 7, 59);background-color:rgb(253, 253, 254);"></font>**<font style="color:rgb(13, 13, 13);">Serial Output</font>**
-![](img/07six.gif)
+![](img/08six.gif)
 
 <font style="color:rgb(13, 13, 13);">The serial output block allows users to read the analog values from all six probes of the sensor simultaneously, improving the efficiency and stability of data collection.</font>
 
@@ -137,17 +127,17 @@ The following table lists the correspondence between the I²C slave address of t
 >
 
 ### <font style="color:rgb(5, 7, 59);background-color:rgb(253, 253, 254);"></font>**<font style="color:rgb(13, 13, 13);">Digital Output Block</font>**
-![](img/08six.gif)
+![](img/09six.gif)
 
 **<font style="background-color:rgb(253, 253, 254);"></font>**<font style="color:rgb(13, 13, 13);">The color detection block features color recognition capabilities, allowing it to identify the color of a selected probe at a specified address and output a clear logical value ("Yes" or "No"). This module can accurately distinguish five colors: red, yellow, green, blue, and purple.</font>
 
-![](img/09six.gif)
+![](img/10six.gif)
 
 **<font style="color:rgb(13, 13, 13);">Line-Following Detection Block</font>**<font style="background-color:rgb(253, 253, 254);">  
 </font><font style="color:rgb(13, 13, 13);">This block accurately differentiates black lines from backgrounds and provides logical outputs (Yes or No) based on the learned environment. Note that the "black line" and "background" recognized by this module are based on learned environmental light conditions. The "black line" represents areas with lower light reflection intensity, while the "background" refers to areas with higher light reflection intensity within the learned detection area.</font>
 
 ### **<font style="color:rgb(13, 13, 13);">Analog Output Block</font>**
-![](img/10six.gif)
+![](img/11six.gif)
 
 **<font style="background-color:rgb(253, 253, 254);"></font>**<font style="color:rgb(13, 13, 13);">The analog output block converts the reading of a selected probe into an analog signal (0 ~ 255 range) for output.</font>
 
