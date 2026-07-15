@@ -19,7 +19,6 @@
 | :---: | --- | --- |
 | ![](img/02Potentiometer.png) | ![](img/03Water.png) | ![](img/04Potentiometer.png) |
 | _<font style="color:rgb(13, 13, 13);">Side View</font>_ | _<font style="color:rgb(13, 13, 13);">Front View</font>_ | _<font style="color:rgb(13, 13, 13);">Side View</font>_ |
-| **<font style="color:rgb(13, 13, 13);">Water Level Sensor Connection Diagram</font>** | | |
 
 
 <font style="color:rgb(0,0,0);"></font><font style="color:rgb(13, 13, 13);">The water level sensor can be connected to the P0, P1, or P2 ports of the micro: bit Intelligent Hub. In the programming environment, you can read the analog values from the water level sensor. The sensor behaves as follows: the higher the water level, the higher the detected value; conversely, the lower the water level, the lower the detected value.</font>
