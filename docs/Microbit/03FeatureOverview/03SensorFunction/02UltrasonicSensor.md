@@ -19,7 +19,7 @@ The Long-Range Photoelectric Sensor is a detection switch designed based on the 
 | :---: | --- | --- |
 | ![](img/02Potentiometer.png) | ![](img/03ultrasonic.png) | ![](img/04Potentiometer.png) |
 | _<font style="color:rgb(13, 13, 13);">Side View</font>_ | _<font style="color:rgb(13, 13, 13);">Front View</font>_ | _<font style="color:rgb(13, 13, 13);">Side View</font>_ |
-| Ultrasonic Sensor Connection Diagram | | |
+ Ultrasonic Sensor Connection Diagram 
 
 
 <font style="color:rgb(0,0,0);">The ultrasonic sensor can be connected to the general-purpose sensor ports of the </font>**micro: bit smart hub**<font style="color:rgb(0,0,0);">, including </font>**P0-P13**<font style="color:rgb(0,0,0);">, </font>**P1-P14**<font style="color:rgb(0,0,0);">, </font>**P2-P15**<font style="color:rgb(0,0,0);">, </font>**P7-P8**<font style="color:rgb(0,0,0);">, </font>**P9-P12**<font style="color:rgb(0,0,0);">, and </font>**P10-P16**<font style="color:rgb(0,0,0);">. It is programmed for distance measurement tasks.  </font>
