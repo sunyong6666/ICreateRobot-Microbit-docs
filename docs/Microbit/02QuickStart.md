@@ -117,13 +117,13 @@ Now you can connect the hub to your computer and download the program
 
 <font style="color:rgb(13, 13, 13);">Notes:</font>
 
-<font style="color:rgb(13, 13, 13);">Sometimes, due to an unstable USB connection, the download may fail. As shown below, the left side shows a successful download, while the right side shows a failed download. If the download fails, the program will be saved as a </font>`**<font style="color:rgb(13, 13, 13);">.hex</font>**`<font style="color:rgb(13, 13, 13);"> file on your computer. In case of failure, please reconnect the USB cable between the computer and the hub, and repeat Step 2.</font>
+<font style="color:rgb(13, 13, 13);">Sometimes, due to an unstable USB connection, the download may fail. As shown below, the left side shows a successful download, while the right side shows a failed download. If the download fails, the program will be saved as a </font>  **<font style="color:rgb(13, 13, 13);">.hex</font>** <font style="color:rgb(13, 13, 13);"> file on your computer. In case of failure, please reconnect the USB cable between the computer and the hub, and repeat Step 2.</font>
 
 
 
 | ![](img/21QuickStart.png) | ![](img/22QuickStart.png) |
 | :---: | :---: |
-| **Successful Download**<font style="color:rgb(13, 13, 13);">: When the message “Downloaded” appears.</font> | **Failed Download**<font style="color:rgb(13, 13, 13);">: When the message “Download Complete” appears, and the file is saved to your computer via the browser.</font> |
+| **Successful Download**<font style="color:rgb(13, 13, 13);">: When the message “Downloaded” appears.</font> | **Failed Download**<font style="color:rgb(13, 13, 13);">: When the message “Download Complete” appears, <br/>and the file is saved to your computer via the browser.</font> |
 
 
 ## <font style="color:rgb(13, 13, 13);">Run the Program</font>
