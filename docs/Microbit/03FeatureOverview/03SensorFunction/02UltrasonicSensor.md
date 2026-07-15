@@ -1,10 +1,6 @@
 # Ultrasonic Sensor
 ## <font style="color:rgb(0,0,0);"></font>**<font style="color:rgb(13, 13, 13);">Principle</font>**
-The ultrasonic sensor is a device widely used for distance measurement and object detection. It primarily consists of a transmission section, a reception section, and a control section. The core component is a piezoelectric crystal, which vibrates rapidly when stimulated by voltage, emitting ultrasonic signals.  
-
-During operation, the sensor first emits a series of high-frequency ultrasonic pulses through its transmission section. These waves reflect back when they encounter an object and are captured by the reception section. The control section then analyzes the received signal and calculates the distance to the object based on the time difference between signal emission and reception.  
-
- The ultrasonic sensor offers the advantage of non-contact measurement and can operate stably in various environments. It is widely used in fields such as automation equipment, robotics, liquid level detection, and traffic monitoring.  
+The Long-Range Photoelectric Sensor is a detection switch designed based on the infrared reflection principle. Its primary function is to accurately detect whether an obstacle is present in front of the sensor, with an effective detection range of 0 to 2 meters. In addition, the sensor is equipped with an adjustable potentiometer, allowing users to flexibly adjust the detection parameters to meet the requirements of various application scenarios.  
 
 ## <font style="color:rgb(13, 13, 13);">Specifications</font>
 | Item | **<font style="color:rgb(13, 13, 13);">Description</font>** |
@@ -21,7 +17,7 @@ During operation, the sensor first emits a series of high-frequency ultrasonic p
 ## **<font style="color:rgb(13, 13, 13);">Usage</font>**
 | ![](img/01ultrasonic.png) | | |
 | :---: | --- | --- |
-| ![](img/02ultrasonic.png) | ![](img/03ultrasonic.png) | ![](img/04ultrasonic.png) |
+| ![](img/02Potentiometer.png) | ![](img/03ultrasonic.png) | ![](img/04Potentiometer.png) |
 | _<font style="color:rgb(13, 13, 13);">Side View</font>_ | _<font style="color:rgb(13, 13, 13);">Front View</font>_ | _<font style="color:rgb(13, 13, 13);">Side View</font>_ |
 | Ultrasonic Sensor Connection Diagram | | |
 
