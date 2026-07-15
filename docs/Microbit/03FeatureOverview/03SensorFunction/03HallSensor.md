@@ -19,7 +19,7 @@
 
 | ![](img/01Hall.png) | | |
 | :---: | --- | --- |
-| ![](img/02Hall.png) | ![](img/03Hall.png) | ![](img/04Hall.png) |
+| ![](img/02Potentiometer.png) | ![](img/03Hall.png) | ![](img/04Potentiometer.png) |
 | _<font style="color:rgb(13, 13, 13);">Side View</font>_ | _<font style="color:rgb(13, 13, 13);">Front View</font>_ | _<font style="color:rgb(13, 13, 13);">Side View</font>_ |
 | **<font style="color:rgb(13, 13, 13);">Hall Sensor Connection Diagram</font>** | | |
 
