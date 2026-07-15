@@ -17,7 +17,7 @@
 ## **<font style="color:rgb(13, 13, 13);">Usage</font>**
 | ![](img/01Soil.png) | | |
 | :---: | --- | --- |
-| ![](img/02Potentiometer.png) | ![](img/03Soil.png) | ![](img/04.png) |
+| ![](img/02Potentiometer.png) | ![](img/03Soil.png) | ![](img/04Potentiometer.png) |
 | _<font Potentiometerstyle="color:rgb(13, 13, 13);">Side View</font>_ | _<font style="color:rgb(13, 13, 13);">Front View</font>_ | _<font style="color:rgb(13, 13, 13);">Side View</font>_ |
 
 
