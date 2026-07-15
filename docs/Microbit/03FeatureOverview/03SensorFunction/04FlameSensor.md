@@ -19,7 +19,7 @@
 | :---: | --- | --- |
 | ![](img/02Potentiometer.png) | ![](img/03Flame.png) | ![](img/04Potentiometer.png) |
 | _<font style="color:rgb(13, 13, 13);">Side View</font>_ | _<font style="color:rgb(13, 13, 13);">Front View</font>_ | _<font style="color:rgb(13, 13, 13);">Side View</font>_ |
-| **<font style="color:rgb(13, 13, 13);">Flame Sensor Connection Diagram</font>** | | |
+
 
 
 <font style="color:rgb(13, 13, 13);">The flame sensor can be connected to the P0, P1, or P2 ports on the micro: bit Intelligent Hub. In the coding environment, the sensor's analog values can be read. The sensor behaves as follows: the higher the flame intensity, the lower the detected value; conversely, the lower the flame intensity, the higher the detected value.</font>
