@@ -17,9 +17,8 @@
 ## **<font style="color:rgb(13, 13, 13);">Usage</font>**
 | ![](img/PIR1.png) | | |
 | :---: | --- | --- |
-| ![](img/PIR2.png) | ![](img/PIR3.png) | ![](img/PIR4.png) |
+| ![](img/02Potentiometer.png) | ![](img/PIR3.png) | ![](img/04Potentiometer.png) |
 | _<font style="color:rgb(13, 13, 13);">Side View</font>_ | _<font style="color:rgb(13, 13, 13);">Front View</font>_ | _<font style="color:rgb(13, 13, 13);">Side View</font>_ |
-| <font style="color:rgba(0, 0, 0, 0.85);">PIR Sensor</font> Connection Diagram | | |
 
 
 The PIR sensor can connect to the **I²C interface** of the **micro:bit hub**. In the coding environment, the sensor values can be read:
