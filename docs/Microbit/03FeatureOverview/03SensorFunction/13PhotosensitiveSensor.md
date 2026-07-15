@@ -17,7 +17,7 @@ The Photosensitive Sensor is a device that converts light signals into electrica
 ## **<font style="color:rgb(13, 13, 13);">Usage</font>**
 | ![](img/p1.png) | | |
 | :---: | --- | --- |
-| ![](img/02Potentiometer.png) | ![](img/p3.png) | ![](img/04Potentiometer.png) |
+| ![](img/02Potentiometer.png) | ![](img/03Potentiometer.png) | ![](img/04Potentiometer.png) |
 | _<font style="color:rgb(13, 13, 13);">Side View</font>_ | _<font style="color:rgb(13, 13, 13);">Front View</font>_ | _<font style="color:rgb(13, 13, 13);">Side View</font>_ |
 
 
