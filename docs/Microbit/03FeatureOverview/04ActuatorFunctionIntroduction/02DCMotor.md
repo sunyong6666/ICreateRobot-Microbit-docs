@@ -18,11 +18,12 @@ The motor is a key component that provides power for various projects. The modul
 
 
 ## **<font style="color:rgb(13, 13, 13);">Usage</font>**
-| ![](img/DC01.png) | | |
-| :---: | --- | --- |
+ ![](img/DC01.png) 
+
 | ![](img/DC02.png) | ![](img/DC03.png) | ![](img/DC04.png) |
+| :---: | --- | --- |
 | _<font style="color:rgb(13, 13, 13);">Side View</font>_ | _<font style="color:rgb(13, 13, 13);">Front View</font>_ | _<font style="color:rgb(13, 13, 13);">Side View</font>_ |
-| **<font style="color:rgb(13, 13, 13);">DC Motor Connection Diagram</font>** | | |
+ **<font style="color:rgb(13, 13, 13);">DC Motor Connection Diagram</font>** 
 
 
 <font style="color:rgb(0,0,0);">The motor can be connected to the micro:bit smart hub's 4 motor driver interfaces: M1, M2, M3, and M4.  </font>
