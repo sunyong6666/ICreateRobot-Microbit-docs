@@ -23,6 +23,8 @@ The motor is a key component that provides power for various projects. The modul
 | ![](img/DC02.png) | ![](img/DC03.png) | ![](img/DC04.png) |
 | :---: | --- | --- |
 | _<font style="color:rgb(13, 13, 13);">Side View</font>_ | _<font style="color:rgb(13, 13, 13);">Front View</font>_ | _<font style="color:rgb(13, 13, 13);">Side View</font>_ |
+
+
  **<font style="color:rgb(13, 13, 13);">DC Motor Connection Diagram</font>** 
 
 
