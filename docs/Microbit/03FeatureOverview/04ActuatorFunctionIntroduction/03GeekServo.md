@@ -18,11 +18,14 @@
 
 
 ## **<font style="color:rgb(13, 13, 13);">Usage</font>**
-| ![](img/GeekServo01.png) | | |
-| :---: | --- | --- |
+ ![](img/GeekServo01.png) 
+
 | ![](img/GeekServo02.png) | ![](img/GeekServo03.png) | ![](img/GeekServo04.png) |
+| :---: | --- | --- |
 | _<font style="color:rgb(13, 13, 13);">Side View</font>_ | _<font style="color:rgb(13, 13, 13);">Front View</font>_ | _<font style="color:rgb(13, 13, 13);">Side View</font>_ |
-| **<font style="color:rgb(13, 13, 13);">Geek Servo Connection Diagram</font>** | | |
+
+
+ **<font style="color:rgb(13, 13, 13);">Geek Servo Connection Diagram</font>** | 
 
 
 <font style="color:rgb(0,0,0);">The Geek Servo can be connected to the micro:bit smart hub's interfaces: S1, S2, S3, and S4. The servo can control movements within a range of 0° to 300°.  </font>
