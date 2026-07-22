@@ -25,7 +25,7 @@
 | _<font style="color:rgb(13, 13, 13);">Side View</font>_ | _<font style="color:rgb(13, 13, 13);">Front View</font>_ | _<font style="color:rgb(13, 13, 13);">Side View</font>_ |
 
 
- **<font style="color:rgb(13, 13, 13);"> Fan Module Connection Diagram</font>** | 
+ **<font style="color:rgb(13, 13, 13);"> Fan Module Connection Diagram</font>**  
 
 
 <font style="color:rgb(0,0,0);">The fan module can be connected to the micro:bit smart hub's interfaces: P0, P1, P2, P8, P12, and P16.  </font>
