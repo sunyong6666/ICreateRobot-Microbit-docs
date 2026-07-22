@@ -7,7 +7,7 @@
 | :---: | :---: |
 | Name   |  Electromagnet Module   |
 | Code   | <font style="color:rgba(0, 0, 0, 0.85);">B0020044</font> |
-| <font style="color:rgb(0,0,0);">Dimension</font> | <font style="color:rgb(0,0,0);">28×24×12 mm</font> |
+| <font style="color:rgb(0,0,0);">Dimension</font> | <font style="color:rgb(0,0,0);">56×24×12 mm</font> |
 | <font style="color:rgba(0, 0, 0, 0.85);"> Voltage  </font> | <font style="color:rgba(0, 0, 0, 0.85);">5V－DC</font> |
 | <font style="color:rgba(0, 0, 0, 0.85);"> Signal  </font> | <font style="color:rgba(0, 0, 0, 0.85);"> Digital Signal / Analog Signal  </font> |
 | <font style="color:rgba(0, 0, 0, 0.85);"> Maximum Pulling Force  </font> | <font style="color:rgba(0, 0, 0, 0.85);">3KG</font> |
@@ -15,11 +15,14 @@
 
 
 ## Usage  
-| ![](img/El01.png) | | |
-| :---: | --- | --- |
+![](img/El01.png) 
+
 | ![](img/El02.png) | ![](img/El03.png) | ![](img/El04.png) |
+| :---: | --- | --- |
 | _<font style="color:rgb(13, 13, 13);">Side View</font>_ | _<font style="color:rgb(13, 13, 13);">Front View</font>_ | _<font style="color:rgb(13, 13, 13);">Side View</font>_ |
-|  Electromagnet Module Connection Diagram   | | |
+
+
+  Electromagnet Module Connection Diagram  
 
 
 <font style="color:rgb(0,0,0);">The electromagnet module can be connected to the micro:bit smart hub's interfaces: P0, P1, P2, P8, P12, and P16.  </font>
