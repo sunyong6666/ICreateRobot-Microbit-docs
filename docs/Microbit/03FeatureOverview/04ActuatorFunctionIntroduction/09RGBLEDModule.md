@@ -23,7 +23,8 @@
 | ![](img/RGB02.png) | ![](img/RGB03.png) | ![](img/RGB04.png) |
 | :---: | :---: | :---: |
 | _<font style="color:rgb(13, 13, 13);">Side View</font>_ | _<font style="color:rgb(13, 13, 13);">Front View</font>_ | _<font style="color:rgb(13, 13, 13);">Side View</font>_ |
-|  RGB LED Module Connection Diagram   | | |
+
+RGB LED Module Connection Diagram   
 
 
 <font style="color:rgb(0,0,0);">The RGB LED Module can be connected to the micro:bit smart hub’s regular sensor interfaces: P0, P1, P2, P8, P12, and P16 for coding control.  </font>
