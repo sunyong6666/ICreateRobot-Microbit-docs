@@ -1,5 +1,5 @@
 # Software Introduction
-For basic usage of the software, please refer to the [**Quick Start**](https://icreaterobot-microbit-docs.readthedocs.io/en/latest/docs/Microbit/02QuickStart.html)(about:blank)**Guide** 
+For basic usage of the software, please refer to the [**Quick Start**](https://icreaterobot-microbit-docs.readthedocs.io/en/latest/docs/Microbit/02QuickStart.html)**Guide** 
 ## MakeCode Interface Functions  
 ### Coding Interface  
 ![](img/S01.png)
