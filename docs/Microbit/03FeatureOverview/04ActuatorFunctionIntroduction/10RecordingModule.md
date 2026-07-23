@@ -30,11 +30,14 @@ The <font style="color:rgb(0,0,0);">Recording Module</font> is mainly used to ca
 
 
 
-| ![]img/RM02.png) | | |
-| :---: | --- | --- |
+![](img/RM02.png)
+
 | ![](img/RM03.png) | ![](img/RM04.png) | ![](img/RM05.png) |
+| :---: | --- | --- |
 | _<font style="color:rgb(13, 13, 13);">Side View</font>_ | _<font style="color:rgb(13, 13, 13);">Front View</font>_ | _<font style="color:rgb(13, 13, 13);">Side View</font>_ |
-|  Recording Module Connection Diagram   | | |
+
+
+Recording Module Connection Diagram 
 
 
 <font style="color:rgb(0,0,0);">The recording module can be connected to the micro:bit smart hub via the I²C interface and controlled through coding.  </font>
