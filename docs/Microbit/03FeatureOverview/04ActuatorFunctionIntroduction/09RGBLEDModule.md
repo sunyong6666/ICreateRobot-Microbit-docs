@@ -36,7 +36,7 @@ RGB LED Module Connection Diagram
 
 ![](img/RGB06.png)
 
-This module has ten preset colors: Red, Orange, Yellow, Green, Blue, Indigo, Violet, Purple, Black, and White. You can input the corresponding RGB values to display the desired color on the LED ring.  
+This module has ten preset colors: Red, Orange, Yellow, Green, Blue, Indigo, Violet, Purple, Black, and White. 
 
 ![](img/RGB07.png)
 
