@@ -114,9 +114,10 @@ Code blocks with an oval white input box allow you to input numbers directly or 
 #### <font style="background-color:rgb(253, 253, 254);">Wireless Block  </font>
 
 
-| | Wireless Control Blocks   | | |
-| --- | :---: | --- | --- |
+Wireless Control Blocks  
+
 | Block   | ![](img/M09.png) | ![](img/M10.png) | ![](img/M11.png) |
+| --- | :---: | --- | --- |
 | Description   | Set Group Block   | Send Information Block   | Receive Information Block   |
 
 
