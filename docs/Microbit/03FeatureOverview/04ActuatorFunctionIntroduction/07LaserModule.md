@@ -18,11 +18,14 @@
 ## **<font style="color:rgb(13, 13, 13);">Usage</font>**
 
 
-| ![](img/L01.png) | | |
-| :---: | --- | --- |
+![](img/L01.png) 
+
 | ![](img/L02.png) | ![](img/L03.png) | ![](img/L04.png) |
+| :---: | --- | --- |
 | _<font style="color:rgb(13, 13, 13);">Side View</font>_ | _<font style="color:rgb(13, 13, 13);">Front View</font>_ | _<font style="color:rgb(13, 13, 13);">Side View</font>_ |
-| Laser Module Connection Diagram   | | |
+
+
+Laser Module Connection Diagram 
 
 
 <font style="color:rgb(0,0,0);">The laser module can be connected to the micro:bit smart hub's interfaces: P0, P1, P2, P8, P12, and P16.  </font>
