@@ -10,6 +10,7 @@ Microbit
   04SoftwareandExtensionFeatures/index
   05CourseCase.md
   06TroubleshootingandSolutions.md
+  07microbitPythonCompilerandUserGuide/index
   
    
 
