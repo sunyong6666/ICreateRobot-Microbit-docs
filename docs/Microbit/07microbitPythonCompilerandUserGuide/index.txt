@@ -1,0 +1,7 @@
+toctree::
+   :maxdepth: 6
+
+
+   01EditorOverview.md
+   02microbitPythonSensorAPI/index
+   03microbitPythonExtensionChangelog.md
