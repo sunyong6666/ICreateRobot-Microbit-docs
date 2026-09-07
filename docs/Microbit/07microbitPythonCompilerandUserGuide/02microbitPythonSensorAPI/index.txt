@@ -1,0 +1,13 @@
+toctree::
+   :maxdepth: 9
+
+
+  01aicamera.md
+  02color.md
+  03servos.md
+  04rcording.md
+  05oled.md
+  06lightring.md
+  07joystick.md
+  08servomotor.md
+  09DCmotor.md
