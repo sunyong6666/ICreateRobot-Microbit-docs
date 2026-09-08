@@ -1,5 +1,5 @@
 toctree::
-   :maxdepth: 6
+   :numbered: 3
 
 
    01EditorOverview.md
