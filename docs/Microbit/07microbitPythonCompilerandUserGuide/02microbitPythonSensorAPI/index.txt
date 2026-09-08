@@ -1,5 +1,5 @@
 toctree::
-   :maxdepth: 9
+  :numbered: 9
 
 
   01aicamera.md
