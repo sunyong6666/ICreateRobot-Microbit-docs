@@ -1,8 +1,6 @@
 Microbit
 ========================
-
 .. toctree::
-  :numbered: 7
 
   01Introduction.md
   02QuickStart.md
