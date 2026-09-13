@@ -1,5 +1,4 @@
-toctree::
-   :numbered: 3
+  :toctree::
 
 
    01EditorOverview.md
