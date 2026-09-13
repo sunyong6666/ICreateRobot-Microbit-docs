@@ -1,4 +1,4 @@
-  :toctree::
+  .. toctree::
 
 
    01EditorOverview.md
