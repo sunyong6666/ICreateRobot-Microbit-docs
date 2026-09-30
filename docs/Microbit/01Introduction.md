@@ -2,7 +2,7 @@
 ## <font style="color:rgb(0, 0, 0);">Coding Kit for BBC micro:bit</font>
 ![](img/02Introduction.png)
 
-<font style="color:rgb(0, 0, 0);">Coding Kit for BBC micro:bit </font><font style="color:rgb(13, 13, 13);">is based on the micro:bit main control board and includes sensors, actuators, and other accessories. The set is perfectly designed to integrate with LEGO parts, making it ideal for students to create micro:bit-based technology and creative projects. This document focuses on the main control board, sensors, actuators, and related software extensions.</font>
+<font style="color:rgb(0, 0, 0);">Coding Kit for BBC micro:bit </font><font style="color:rgb(13, 13, 13);">is based on the micro:bit main control board and includes sensors, actuators, and other accessories. Designed for building-block integration, the series is suitable for students to create technology-based projects and creative works. This document focuses on the main control board, sensors, actuators, and related software extensions.</font>
 
 ## **<font style="color:rgb(13, 13, 13);">Parts List</font>**
 | ![](img/01Introduction.png) | ![](img/03Introduction.png) | ![](img/04Introduction.png) | ![](img/05Introduction.png) |
