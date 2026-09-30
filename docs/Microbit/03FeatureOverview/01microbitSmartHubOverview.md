@@ -2,7 +2,7 @@
 ## <font style="color:rgb(13, 13, 13);">Introduction</font>
 ![](img/01hub.png)
 
-<font style="color:rgb(13, 13, 13);">The </font>**<font style="color:rgb(13, 13, 13);">micro: bit Smart Hub</font>**<font style="color:rgb(13, 13, 13);"> is a versatile expansion device designed for the micro: bit development board, offering a wide range of interfaces and high compatibility. It features 6 standard I/O sensor ports, 4 I²C ports, 4 DC motor ports, and 4 servo ports, all using the Grove open-source standard. The hub connects directly to the micro: bit board and is compatible with most Grove hardware. It seamlessly integrates with LEGO bricks, enabling students to create innovative STEM projects with micro: bit technology.</font>
+<font style="color:rgb(13, 13, 13);">The </font>**<font style="color:rgb(13, 13, 13);">micro: bit Smart Hub</font>**<font style="color:rgb(13, 13, 13);"> is a versatile expansion device designed for the micro: bit development board, offering a wide range of interfaces and high compatibility. It features 6 standard I/O sensor ports, 4 I²C ports, 4 DC motor ports, and 4 servo ports, all using the Grove open-source standard. The hub connects directly to the micro: bit board and is compatible with most Grove hardware. It seamlessly integrates with building blocks, enabling students to create innovative STEM projects with micro: bit technology.</font>
 
 ## <font style="color:rgb(13, 13, 13);">Structure</font>
 ![](img/02hub.png)
@@ -45,7 +45,7 @@ Schematic Drawing
 | <font style="color:rgb(13, 13, 13);"></font><font style="color:rgb(13, 13, 13);">Port Voltage</font> | <font style="color:rgb(13, 13, 13);">5V</font> |
 | <font style="color:rgb(13, 13, 13);"></font><font style="color:rgb(13, 13, 13);">Compatible Software</font> | <font style="color:rgb(13, 13, 13);">MakeCode，Micropython，Scratch</font><font style="color:rgb(13, 13, 13);">, etc.</font> |
 | <font style="color:rgb(13, 13, 13);"></font><font style="color:rgb(13, 13, 13);">Suitable Age</font> | <font style="color:rgb(13, 13, 13);">6+</font> |
-| <font style="color:rgb(13, 13, 13);"></font><font style="color:rgb(13, 13, 13);">Compatibility</font> | <font style="color:rgb(13, 13, 13);">LEGO</font> |
+| <font style="color:rgb(13, 13, 13);"></font><font style="color:rgb(13, 13, 13);">Compatibility</font> | <font style="color:rgb(13, 13, 13);">Building Blocks</font> |
 
 
 > **<font style="color:rgb(13, 13, 13);">Note:</font>**<font style="color:rgb(13, 13, 13);"> Data in this report is based on laboratory tests and simulated usage scenarios. Actual battery usage time may vary.</font>
